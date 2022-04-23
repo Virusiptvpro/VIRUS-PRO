@@ -877,8 +877,6 @@ http://axcestv.vip:8080/freeview/axcestv/690
 #EXTINF:-1 tvg-id="CHN" group-title="Radio Stations" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
 https://hls.rastream.com/astro-kbs-world
 
-#EXTINF:-1 tvg-id="CHN" group-title="Radio Stations" ch-number="825" tvg-logo="https://aqfadtv.astradamy.com/logos/AqFadRadio2022.png",AqFad Radio
-http://node-08.zeno.fm:80/8w68ftpayf9uv
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio Stations" ch-number="826" tvg-logo="https://aqfadtv.astradamy.com/logos/K-DAILY.png",K-DAILY
 http://node-01.zeno.fm:80/v2gwghhbyf9uv
