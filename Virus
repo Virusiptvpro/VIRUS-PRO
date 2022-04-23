@@ -22,8 +22,7 @@ http://51.79.251.99:25461/streaming/clients_live.php?extension=ts&username=78mas
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_boiw4g9tP5gHzG5f7y-QgKc=bLkP/dash-wv/jitp-linearwm/1004/default_primary.mpd
-...............................................................................................................................................................................................................................................................
+http://linears-playback.astro.com.my/vsgN/41KPzKMI9pj8KlBCMu4dx_bro4WygM2QnR-CIp4ctxHeI=K7nQ/dash-wv/jitp-linearwm/1004/default_primary.mpd...............................................................................................................................................................................................................................................................
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -46,7 +45,7 @@ http://51.79.251.99:25461/live/78mastro78/787980/1818.m3u8?token=TBpYVERRRFhGBFd
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9IcgLCS1jS6MRIoBlxUhD1Q=hiBd/dash-wv/jitp-linearwm/2402/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9Nnq5Egq8PFKgVGiy4ffLpA=yhGR/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 ......................................................................................................................................................................................................................................................
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra(Backup)
@@ -58,7 +57,7 @@ http://51.79.251.99:25461/live/78mastro78/787980/1724.m3u8?token=TBpYVERRRFhGVVY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/2700/default_ott.mpd
-http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9G-rFxi5XE_2Q8R4SnenWok=1veu/dash-wv/jitp-linearwm/2700/default_primary.mpd
+http://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9LIWXt-_Z26L4pw5FAnR5_4=Q9IO/dash-wv/jitp-linearwm/2700/default_primary.mpd 
 ..................................................................................................................................................................................................................................
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
