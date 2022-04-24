@@ -1146,6 +1146,9 @@ https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP02.mp
 #EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/3.png",Episode 3
 https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP03.mp4
 
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzzFYczgufsR1VZbadYvtIvRKYnNnb8tz9w&usqp=CAU"group-title="VOD" type="movie",The Batman
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-CMRG%5BTGx%5D.mkv
+
 #EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://onedrive.astradamy.com//api?path=%2F%2F0.jpg&raw=true" group-title="Events",Astro 25 Concert
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eda13a0150d13d38ad4ff33c9f027410&key=bb4dfc03376da3356e55eed3349cf482
