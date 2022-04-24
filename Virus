@@ -113,7 +113,7 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://aqfadtv.astradamy.com/logos/AwesomeTVWhite.png",123 Awesome TV
-https://onedrive.aqfadtv.xyz/api/raw/?path=/awesome.mp4&raw=true
+http://axcestv.vip:8080/live/freeview/axcestv/635.ts
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
 # https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
