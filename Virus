@@ -846,9 +846,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #EXTINF:-1 group-title="Astro First" ch-number="471"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Autumn In Wales 
 http://axcestv.vip:8080/freeview/axcestv/979 
 
-#EXTINF:-1 group-title="Astro First" ch-number="472" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First - Kedai Antik Wak Jambi http://axcestv.vip:8080/freeview/axcestv/980 
+#EXTINF:-1 group-title="Astro First" ch-number="472" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First - Kedai Antik Wak Jambi 
+http://axcestv.vip:8080/freeview/axcestv/980 
 
-#EXTINF:-1 group-title="Astro First" ch-number="473" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Kg Pisang Berbuah Dua Kali http://axcestv.vip:8080/freeview/axcestv/684 
+#EXTINF:-1 group-title="Astro First" ch-number="473" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Kg Pisang Berbuah Dua Kali 
+http://axcestv.vip:8080/freeview/axcestv/684 
 
 #EXTINF:-1 group-title="Astro First" ch-number="474" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Hantu Kuat Ketawa 
 http://axcestv.vip:8080/freeview/axcestv/685 
@@ -856,7 +858,8 @@ http://axcestv.vip:8080/freeview/axcestv/685
 #EXTINF:-1 group-title="Astro First" ch-number="475" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Hantu Mok Joh 
 http://axcestv.vip:8080/freeview/axcestv/686 
 
-#EXTINF:-1 group-title="Astro First" ch-number="476" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Marabahaya Underground http://axcestv.vip:8080/freeview/axcestv/687 
+#EXTINF:-1 group-title="Astro First" ch-number="476" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Marabahaya Underground 
+http://axcestv.vip:8080/freeview/axcestv/687 
 
 #EXTINF:-1 group-title="Astro First" ch-number="477" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Serangan Pocong 
 http://axcestv.vip:8080/freeview/axcestv/688 
@@ -867,7 +870,8 @@ http://axcestv.vip:8080/freeview/axcestv/689
 #EXTINF:-1 group-title="Astro First" ch-number="479" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First - Hantu Ke Lima 
 http://axcestv.vip:8080/freeview/axcestv/690 
 
-#EXTINF:-1 group-title="Astro First" ch-number="480" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First -Penunggang Agama 2 http://axcestv.vip:8080/freeview/axcestv/691
+#EXTINF:-1 group-title="Astro First" ch-number="480" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First -Penunggang Agama 2 
+http://axcestv.vip:8080/freeview/axcestv/691
 
 
 #EXTINF:-1 tvg-id="CHN" group-title="Radio Stations" tvg-logo="https://media2.fishtank.my/stations/astro-kbs-world/updated/square_md.png",KBS World Radio
