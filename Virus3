@@ -542,6 +542,57 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/501
 https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+#EXTINF:-1 tvg-id="&FLIX HD" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_FdtFR-SI9zpjj3JsKDGjzPEzOGP8x7cQA&usqp=CAU",&FLIXL HD
+http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+
+#EXTINF:-1 tvg-id="&PRIVE HD" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIvyGaxUj6aSHaYQ7NcViGGPrF16Z4nmB7w&usqp=CAU",&PRIVE HD
+http://axcestv.vip:8080/live/freeview/axcestv/703.ts
+
+#EXTINF:-1 tvg-id="HBO Signature" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89B5tcBIkzOK619UGogywHHXUM8yNM-O5kg&usqp=CAU",HBO Signature
+http://axcestv.vip:8080/live/freeview/axcestv/697.ts
+
+#EXTINF:-1 tvg-id="Star Movie" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREesbn2tbUT7dkviVhyBULLBeG-GvK1tSXg&usqp=CAU",Star Movie
+http://axcestv.vip:8080/live/freeview/axcestv/704.ts
+
+#EXTINF:-1 tvg-id="Star Movie Select HD" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVTI6qWntbCz4M-GIr7NoBgR_JoLTVIYasw&usqp=CAU",Star Movie Select HD
+http://axcestv.vip:8080/live/freeview/axcestv/705.ts
+
+#EXTINF:-1 tvg-id="SONY Pix" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsQ0tWIfoHHAsxHhcXjLg_LEfUvsfzof8LBA&usqp=CAU",SONY Pix
+http://axcestv.vip:8080/live/freeview/axcestv/706.ts
+
+#EXTINF:-1 tvg-id="My Cinema" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-p6dSwMDNRQG5e_U1ikU-6QQ8eMODJRTbfg&usqp=CAU",My Cinema
+http://axcestv.vip:8080/live/freeview/axcestv/699.ts
+
+#EXTINF:-1 tvg-id="My Cinema Asia" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoY65ig4yvcKJO_gXkiFYlKd-a9FMrTQflA&usqp=CAU",My Cinema Asia
+http://axcestv.vip:8080/live/freeview/axcestv/700.ts
+
+#EXTINF:-1 tvg-id="My Family Cinema" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQLU52sTeskEuQWNjYDYT9UWMJF8wGm5K6A&usqp=CAU",My Family Cinema
+http://axcestv.vip:8080/live/freeview/axcestv/701.ts
+
+#EXTINF:-1 tvg-id="GALAXY" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIa72RyZRn7XSTjJExGMpeAO-7nCouKuW2w&usqp=CAU",GALAXY
+http://axcestv.vip:8080/live/freeview/axcestv/709.ts
+
+#EXTINF:-1 tvg-id="GALAXY PREMIUM" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIwLpVGjFSxG6KWVlvXWgznupbGnoaOjAtg&usqp=CAU",GALAXY PREMIUM
+http://axcestv.vip:8080/live/freeview/axcestv/710.ts
+
+#EXTINF:-1 tvg-id="CinemaWorld" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vbSjb17-tobIRRVvzdiDREB-hJRO3zCHNA&usqp=CAU",CinemaWorld
+http://axcestv.vip:8080/live/freeview/axcestv/712.ts
+
+#EXTINF:-1 tvg-id="Thrill" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4St2zHS68hJiWU9zhZbtjsifcd9YarzEwQ&usqp=CAU",Thrill
+http://axcestv.vip:8080/live/freeview/axcestv/713.ts
+
+#EXTINF:-1 tvg-id="IMC" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9If36iVMbSK5ITjC0vnyw4LcIyqdWI5usA&usqp=CAU",IMC
+http://axcestv.vip:8080/live/freeview/axcestv/714.ts
+
+#EXTINF:-1 tvg-id="FLIK" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJADi0m9FfAK_srAnOargkkk-guObaGGcP1g&usqp=CAU",FLIK
+http://axcestv.vip:8080/live/freeview/axcestv/715.ts
+
+#EXTINF:-1 tvg-id="Bioskop Indonesia" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnn7s3JQUEg0mwHcZDlipeNgbLfAOzudzwA&usqp=CA",Bioskop Indonesia
+http://axcestv.vip:8080/live/freeview/axcestv/716.ts
+
+>>>>>>>>>>>>>>>>>>>>
+
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="553" tvg-id="553" tvg-chno="553" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png",CBeebies HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw 
