@@ -416,12 +416,15 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-http://zalogitv.tech:8080/streaming/clients_live.php?extension=ts&username=mastro77&password=m4str0&stream=302
+http://axcestv.vip:8080/live/freeview/axcestv/743.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="472" tvg-id="Animax" tvg-chno="472" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",472 Animax HD
-http://zalogitv.tech:8080/streaming/clients_live.php?extension=ts&username=mastro77&password=m4str0&stream=1464
+http://axcestv.vip:8080/live/freeview/axcestv/740.ts
+
+#EXTINF:-1 tvg-id="Aniplus" ch-number="473" group-title="Wireguard Needed" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj",473 Aniplus
+http://axcestv.vip:8080/live/freeview/axcestv/741.ts
 
 #EXTINF:-1 tvg-id="473" ch-number="473" group-title="Wireguard Needed" tvg-logo="https://aqfad2811.s-ul.eu/9mIAiqQ2",473 Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -522,7 +525,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 #EXTINF:-1 group-title="Wireguard Needed" ch-number="550" tvg-id="550" tvg-chno="550" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202011/20201125/202011250800095510sa.png",Dreamworks HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw 
-https://live.astradamy.com/unifitv/dreamworks/index.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/761.ts
 
 #EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentaries" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
