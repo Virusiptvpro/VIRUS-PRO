@@ -808,22 +808,22 @@ https://linear04-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
-https://linears-playback.astro.com.my/vsg/41deCWy__ae_6P_LUQ57j54XhPEq2hqJVdi50r-SJJiog=2q6P/dash-wv/jitp-linearwm/601/default_primary.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/787.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://linears-playback.astro.com.my/vsg/41L6QTsE8l_OSFH89J2eK4z92ZbFuIkmPnmekTK0E8WLs=snkO/dash-wv/jitp-linearwm/2104/default_primary.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/789.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://linears-playback.astro.com.my/vsg/411aAdpUORq1ipLVthkITKe6QcFn84dCA--eFBu3Y-6LY=tuGG/dash-wv/jitp-linearwm/2701/default_primary.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/790.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://linears-playback.astro.com.my/vsg/41UfpQ6-vWB66ZAp5DuLe4efonsSZtfjl7R0LRr89PP2k=UpXA/dash-wv/jitp-linearwm/2506/default_primary.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/791.ts
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD
