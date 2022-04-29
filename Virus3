@@ -507,10 +507,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/904/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9984
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9984/default_ott.mpd
 
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="521" tvg-id="521" tvg-chno="521" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202108/20210831/20210831161520835mdk.png",521 Travel Channel HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-https://live.astradamy.com/unifitv/travelchannel/index.mpd
 
 #EXTINF:-1 tvg-id="France24" group-title="GO Exclusive" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/201907/20190716/20190716072345821ml3.png" ch-number="522",522 France 24 English 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -592,11 +588,6 @@ http://axcestv.vip:8080/live/freeview/axcestv/715.ts
 http://axcestv.vip:8080/live/freeview/axcestv/716.ts
 
 >>>>>>>>>>>>>>>>>>>>
-
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="553" tvg-id="553" tvg-chno="553" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716071141326xhe.png",CBeebies HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw 
-https://live.astradamy.com/unifitv/cbeebies/index.mpd
 
 #EXTINF:-1 tvg-id="BBCEarth" group-title="Documentaries" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606454895082c.png" ch-number="554",554 BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -703,11 +694,6 @@ https://live.astradamy.com/unifitv/unifisports5/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-#EXTINF:-1 group-title="Wireguard Needed" ch-number="707" tvg-id="SPOTV2" tvg-chno="SPOTV2" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png",SPOTV2 HD
-https://live.astradamy.com/unifitv/spotv2/index.mpd
 
 #EXTINF:-1 tvg-id="TLC" group-title="Entertainment" tvg-logo="https://api.discovery.com/v1/images/558c1c396b66d1023309e791?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4" ch-number="707",707 TLC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -852,6 +838,16 @@ https://linear03-playback.sooka.my/CH1/masterCH1.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id=""g-logo="https://playtv.unifi.com.my:7046/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="SPORT",SPOTV2
+https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1g-id="SoccerChannel.id"g-logo="http://dusktill.masuk.web.id/img/soccerchannel.png" group-title="SPORT",SOCCER CHANNEL
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeWtmTnlza01GSTVDV3QzeVRUbi1FYk8xVk9OX1hrdnM5eFhhY1puT29lTnFtbUduZnRqYzFWRWtwU19yOHhZUHQ3dm1RY0Y1MU8wcEFjWG55SVl3TmtreGJMV21abmFUWTMwcVRtT01lb3RiM1Y2OWlmOWxXS3RxTjJhOVp5dDVoaUc1dDZKcWd1RV9TbW50bTRqamE4RnNvQ25ETnpCUktleDdRVHQzaGNoeV90Szd5cTMyYnYwS25udzNFbzFweXhaRzJRWWZuZVFrUlBBNlVNdXc0RjQ3T2FTZVBUaDk2aktyNUxTRUE1THBMRFkxbF8yQ0NzU2NtOEtJR1dPeWl1WmFfYjdLcC1oWm43cWhnNkNXSmRZanVLU2lPcV9ZSzcxVkJFS2VIbktyRm5mSFJKTWN3ZHBUN25pbWZEY3pVbktweW85VkI3Q2hKaVBpQndJQm42MUNDQ2p1ek5HTzc0X0ZJLTY0ZFdhenBPV0RkYzhyTVdmR2JkV01YYTZPeGNKUGZkbFBmWjktVmhZek5WQXlZeEdyVlNONmx4Qjhlbl9zUEhoSDlrOVdDekxxeV9sTzlzbXhCTHAtbW9iUU1JWDA3cjhEZzIyOUZ0Sk9xeFpPOUJPQXZ3aWRlbXZ5YXJGT0ttbWRzRTl3PT0mY29udGV4dFR5cGU9bm9uZSZpZD0xNTQ5ODY2OCIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiJhNTc3MTg0ZV9kNmM2XzQ1NjBfYmViOF83Yzk2ZWU3OGY3YjgiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09YeWtmTnlza01GSTVDV3QzeVRUbi1FYk8xVk9OX1hrdnM5eFhhY1puT29lTnFtbUduZnRqYzFWRWtwU19yOHhZUHQ3dm1RY0Y1MU8wcEFjWG55SVl3TmtreGJMV21abmFUWTMwcVRtT01lb3RiM1Y2OWlmOWxXS3RxTjJhOVp5dDVoaUc1dDZKcWd1RV9TbW50bTRqamE4RnNvQ25ETnpCUktleDdRVHQzaGNoeV90Szd5cTMyYnYwS25udzNFbzFweXhaRzJRWWZuZVFrUlBBNlVNdXc0RjQ3T2FTZVBUaDk2aktyNUxTRUE1THBMRFkxbF8yQ0NzU2NtOEtJR1dPeWl1WmFfYjdLcC1oWm43cWhnNkNXSmRZanVLU2lPcV9ZSzcxVkJFS2VIbktyRm5mSFJKTWN3ZHBUN25pbWZEY3pVbktweW85VkI3Q2hKaVBpQndJQm42MUNDQ2p1ek5HTzc0X0ZJLTY0ZFdhenBPV0RkYzhyTVdmR2JkV01YYTZPeGNKUGZkbFBmWjktVmhZek5WQXlZeEdyVlNONmx4Qjhlbl9zUEhoSDlrOVdDekxxeV9sTzlzbXhCTHAtbW9iUU1JWDA3cjhEZzIyOUZ0Sk9xeFpPOUJPQXZ3aWRlbXZ5YXJGT0ttbWRzRTl3PT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01ZGVkMWU1Ni1hNzZjLTI4Y2MtNmUyOC1iYTRjNDk0NDg2NjQiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=UC8ZeN1HxfbZiZFnnTgvPB%2fjCDg%3d&sessionId=5f3ab594-51dd-3f23-e71d-d57d2eb8600e:9fd21e4b-d6f2-e571-6a38-cfb6e7d5f91d&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2F0cC10b3VyLTEwMDAtLTIwMjItLzEyNjIwMDIvcGxheWVyP2xpbmVhcklkPTEwMDE0NTU1NiZpc0xpdmU9dHJ1ZQ==
 #EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Bein-sports-2-hero.png/revision/latest?cb=20170624055814",817 beIN Sports 2 HD (Backup)
 https://linear02-playback.sooka.my/CH3/masterCH3.mpd
@@ -895,7 +891,87 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+..….....indosinga......
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="GTV.id"g-logo="https://i.kampung.xyz/c/fee780538cc4bb0f.png" group-title="INDONESIA",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1g-id="Indosiar.id"g-logo="https://i.kampung.xyz/c/471c5cb2067763ea.png" group-title="INDONESIA",INDOSIAR
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="MNCTV.id"g-logo="https://i.kampung.xyz/c/a1512755f08c991f.png" group-title="INDONESIA",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="NET.id"g-logo="http://dusktill.masuk.web.id/img/net.png" group-title="INDONESIA",NET
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="OKTV.id"g-logo="http://dusktill.masuk.web.id/img/oktv.png" group-title="INDONESIA",OK
+https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="RCTI.id"g-logo="https://i.kampung.xyz/c/c0198572b1f2ff83.png" group-title="INDONESIA",RCTI
+https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1g-id=""g-logo="https://i.kampung.xyz/c/33812f1ce517e50b.png" group-title="INDONESIA",RTV
+https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
+
+#EXTINF:-1g-id="SCTV.id"g-logo="https://i.kampung.xyz/c/5c16f2fcdb2dd0db.png" group-title="INDONESIA",SCTV
+https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
+
+#EXTINF:-1g-id="Trans7.id"g-logo="https://i.kampung.xyz/c/25310c66e8c2e425.png" group-title="INDONESIA",TRANS7
+#http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+https://iptv.mwafa.net/vidio/734/index.m3u8?token=1999
+
+#EXTINF:-1g-id="TransTV.id"g-logo="https://i.kampung.xyz/c/8fe064c865d2b78c.png" group-title="INDONESIA",TRANSTV
+#http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+https://iptv.mwafa.net/vidio/733/index.m3u8?token=1999
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTINF:-1g-id="VisionPrime.id"g-logo="http://dusktill.masuk.web.id/img/visionprime.png" group-title="INDONESIA",VISION PRIME
+https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
+#EXTINF:-1g-id="ZeeBioskop.in"g-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" group-title="INDONESIA",ZEE BIOSKOP
+https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1g-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL 5
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
+#EXTINF:-1g-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL 8
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1g-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="SINGAPORE",CHANNEL U
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
+#EXTINF:-1g-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="SINGAPORE",SURIA
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1g-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="SINGAPORE",VASANTHAM
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+....................
 #EXTINF:-1 group-title="Astro First" ch-number="471"  tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_First_v1.png" ,Astro First- Autumn In Wales 
 http://axcestv.vip:8080/freeview/axcestv/979 
 
