@@ -15,7 +15,11 @@ https://live.astradamy.com/tv3/index.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 #http://zalogitv.tech:8080/streaming/clients_live.php?extension=ts&username=78mastro78&password=787980&stream=1819
-http://axcestv.vip:8080/live/freeview/axcestv/646.ts
+http://axcestv.vip:8080/live/freeview/axcestv/647.ts
+
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
+#http://zalogitv.tech:8080/streaming/clients_live.php?extension=ts&username=78mastro78&password=787980&stream=1819
+http://axcestv.vip:8080/live/freeview/axcestv/645.ts 
 ............................................................................................ria................................................................................................................................
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
@@ -39,7 +43,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
 #http://zalogitv.tech:8080/live/78mastro78/787980/1818.m3u8
-http://axcestv.vip:8080/live/freeview/axcestv/650.ts
+http://axcestv.vip:8080/live/freeview/axcestv/649.ts
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
+#http://zalogitv.tech:8080/live/78mastro78/787980/1818.m3u8
+http://axcestv.vip:8080/live/freeview/axcestv/648.ts
+
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,warna,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
@@ -56,8 +65,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/651.ts
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-http://axcestv.vip:8080/live/freeview/axcestv/651.ts
-
+http://axcestv.vip:8080/live/freeview/axcestv/652.ts
 ..................................................................................................................................................................................................................................
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -790,6 +798,7 @@ https://linear04-playback.sooka.my/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5068
 #EXTINF:-1 tvg-id="SPOTV2" ch-number="810" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",810 SPOTV2 HD (Astro Temporary)
 # https://linearjitp-playback.astro.com.my/dash-wv/linear/5068/default_primary.mpd
+http://axcestv.vip:8080/live/freeview/axcestv/977.ts
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
@@ -893,6 +902,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2504
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
+
 ..….....indosinga......
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
