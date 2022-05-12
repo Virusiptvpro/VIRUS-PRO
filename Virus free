@@ -1,7 +1,10 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="VirusIptvPro" group-title="Free trail" ch-number="100" tvg-logo="https://tinyurl.com/bdeb2p22",100 VirusIptvPro
-https://youtube.com/shorts/Q2LTDoT38Qo?feature=share
+https://drive.google.com/file/d/1TtO1Y8Lf4y6moiAu3YfZQdNjshU8Se_V/view?usp=drivesdk
+
+#EXTINF:-1 tvg-id="myFreeview" group-title="Free trail" ch-number="100" tvg-logo="https://tinyurl.com/bdeb2p22",100 VirusIptvPro
+https://drive.google.com/file/d/1TtO1Y8Lf4y6moiAu3YfZQdNjshU8Se_V/view?usp=drivesdk
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
