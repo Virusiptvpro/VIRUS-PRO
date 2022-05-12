@@ -1,0 +1,102 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="VirusIptvPro" group-title="Free trail" ch-number="100" tvg-logo="https://tinyurl.com/bdeb2p22",100 VirusIptvPro
+https://youtube.com/shorts/Q2LTDoT38Qo?feature=share
+
+#EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
+https://live.astradamy.com/tv3/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 tvg-id="TV6" group-title="myFreeview" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",113 TV6
+# https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+
+#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="myFreeview",114 TV AlHijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1113
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+#EXTINF:-1 tvg-id="GOShopMYTV" group-title="myFreeview" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",120 Go Shop  
+https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
+
+#EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5021
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
+
+#EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://aqfadtv.astradamy.com/logos/AwesomeTVWhite.png",123 Awesome TV (bekup)
+http://axcestv.vip:8080/live/freeview/axcestv/635.ts
+
+#EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
+# https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+# https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+
+#EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+# https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
+
+#EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
+# https://aqfadtv.astradamy.com/stream/DidikTVKPM.php
+
+#EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+# https://unifi-live02.secureswiftcontent.com/UnifiSD/live02.mpd
+
+#EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="myFreeview" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",149 TV9
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
+# https://aqfadtv.astradamy.com/stream/TV9.php
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
+http://22283.live.streamtheworld.com/988_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM
+https://22283.live.streamtheworld.com/SURIA_FMAAC.aac
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="958" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/koUQs6gN",Suria FM (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="721" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM 
+https://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/HotFM2021.png/revision/latest/scale-to-width-down/250?cb=20210801171400", Hot FM (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="722" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM
+https://mediaprima.rastream.com/mediaprima-koolfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/BuletinFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801172624",Buletin FM (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="723" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM
+https://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/FlyFM2021.png/revision/latest/scale-to-width-down/300?cb=20210801171738",Fly FM (YouTube Live)
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
+
+#EXTINF:-1 group-title="Radio Stations" tvg-id="CHN" ch-number="724" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/8FM2021.png/revision/latest/scale-to-width-down/200?cb=20210801172242",8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+
+
+
+
