@@ -74,7 +74,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/652.ts
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Movies" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-http://axcestv.vip:8080/live/freeview/axcestv/458.ts
+http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301051401&password=878900&stream=721
 👍
 ..................................................................................................................................................................................................................................
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="Sports" ch-number="111" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",111 Sukan RTM
@@ -444,7 +444,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
-http://axcestv.vip:8080/live/freeview/axcestv/743.ts
+http://axcestv.vip:8080/live/freeview/axcestv/550.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
@@ -452,17 +452,17 @@ http://axcestv.vip:8080/live/freeview/axcestv/743.ts
 http://axcestv.vip:8080/live/freeview/axcestv/740.ts
 
 #EXTINF:-1 tvg-id="Aniplus" ch-number="473" group-title="Wireguard Needed" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj",473 Aniplus
-http://axcestv.vip:8080/live/freeview/axcestv/741.ts
+http://axcestv.vip:8080/live/freeview/axcestv/549.ts
 
 #EXTINF:-1 tvg-id="473" ch-number="473" group-title="Wireguard Needed" tvg-logo="https://aqfad2811.s-ul.eu/9mIAiqQ2",473 Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-http://axcestv.vip:8080/live/freeview/axcestv/724.ts
+http://axcestv.vip:8080/live/freeview/axcestv/532.ts
 
 #EXTINF:-1 tvg-id="474" ch-number="474" group-title="Wireguard Needed" tvg-logo="https://aqfad2811.s-ul.eu/pnCvR70x",474 Rock Extreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
-http://axcestv.vip:8080/live/freeview/axcestv/725.ts
+http://axcestv.vip:8080/live/freeview/axcestv/533.ts
 
 #EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
@@ -568,52 +568,52 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_ott.mpd
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #EXTINF:-1 tvg-id="&FLIX HD" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_FdtFR-SI9zpjj3JsKDGjzPEzOGP8x7cQA&usqp=CAU",&FLIXL HD
-http://axcestv.vip:8080/live/freeview/axcestv/702.ts
+http://axcestv.vip:8080/live/freeview/axcestv/510.ts
 
 #EXTINF:-1 tvg-id="&PRIVE HD" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyIvyGaxUj6aSHaYQ7NcViGGPrF16Z4nmB7w&usqp=CAU",&PRIVE HD
-http://axcestv.vip:8080/live/freeview/axcestv/703.ts
+http://axcestv.vip:8080/live/freeview/axcestv/511.ts
 
 #EXTINF:-1 tvg-id="HBO Signature" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89B5tcBIkzOK619UGogywHHXUM8yNM-O5kg&usqp=CAU",HBO Signature
-http://axcestv.vip:8080/live/freeview/axcestv/697.ts
+http://axcestv.vip:8080/live/freeview/axcestv/505.ts
 
 #EXTINF:-1 tvg-id="Star Movie" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTREesbn2tbUT7dkviVhyBULLBeG-GvK1tSXg&usqp=CAU",Star Movie
-http://axcestv.vip:8080/live/freeview/axcestv/704.ts
+http://axcestv.vip:8080/live/freeview/axcestv/512.ts
 
 #EXTINF:-1 tvg-id="Star Movie Select HD" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuVTI6qWntbCz4M-GIr7NoBgR_JoLTVIYasw&usqp=CAU",Star Movie Select HD
-http://axcestv.vip:8080/live/freeview/axcestv/705.ts
+http://axcestv.vip:8080/live/freeview/axcestv/513.ts
 
 #EXTINF:-1 tvg-id="SONY Pix" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsQ0tWIfoHHAsxHhcXjLg_LEfUvsfzof8LBA&usqp=CAU",SONY Pix
-http://axcestv.vip:8080/live/freeview/axcestv/706.ts
+http://axcestv.vip:8080/live/freeview/axcestv/514.ts
 
 #EXTINF:-1 tvg-id="My Cinema" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-p6dSwMDNRQG5e_U1ikU-6QQ8eMODJRTbfg&usqp=CAU",My Cinema
-http://axcestv.vip:8080/live/freeview/axcestv/699.ts
+http://axcestv.vip:8080/live/freeview/axcestv/507.ts
 
 #EXTINF:-1 tvg-id="My Cinema Asia" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvoY65ig4yvcKJO_gXkiFYlKd-a9FMrTQflA&usqp=CAU",My Cinema Asia
-http://axcestv.vip:8080/live/freeview/axcestv/700.ts
+http://axcestv.vip:8080/live/freeview/axcestv/508.ts
 
 #EXTINF:-1 tvg-id="My Family Cinema" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQLU52sTeskEuQWNjYDYT9UWMJF8wGm5K6A&usqp=CAU",My Family Cinema
-http://axcestv.vip:8080/live/freeview/axcestv/701.ts
+http://axcestv.vip:8080/live/freeview/axcestv/509.ts
 
 #EXTINF:-1 tvg-id="GALAXY" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtIa72RyZRn7XSTjJExGMpeAO-7nCouKuW2w&usqp=CAU",GALAXY
-http://axcestv.vip:8080/live/freeview/axcestv/709.ts
+http://axcestv.vip:8080/live/freeview/axcestv/517.ts
 
 #EXTINF:-1 tvg-id="GALAXY PREMIUM" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuIwLpVGjFSxG6KWVlvXWgznupbGnoaOjAtg&usqp=CAU",GALAXY PREMIUM
-http://axcestv.vip:8080/live/freeview/axcestv/710.ts
+http://axcestv.vip:8080/live/freeview/axcestv/518.ts
 
 #EXTINF:-1 tvg-id="CinemaWorld" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vbSjb17-tobIRRVvzdiDREB-hJRO3zCHNA&usqp=CAU",CinemaWorld
-http://axcestv.vip:8080/live/freeview/axcestv/712.ts
+http://axcestv.vip:8080/live/freeview/axcestv/520.ts
 
 #EXTINF:-1 tvg-id="Thrill" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI4St2zHS68hJiWU9zhZbtjsifcd9YarzEwQ&usqp=CAU",Thrill
-http://axcestv.vip:8080/live/freeview/axcestv/713.ts
+http://axcestv.vip:8080/live/freeview/axcestv/521.ts
 
 #EXTINF:-1 tvg-id="IMC" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9If36iVMbSK5ITjC0vnyw4LcIyqdWI5usA&usqp=CAU",IMC
-http://axcestv.vip:8080/live/freeview/axcestv/714.ts
+http://axcestv.vip:8080/live/freeview/axcestv/522.ts
 
 #EXTINF:-1 tvg-id="FLIK" group-title="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJADi0m9FfAK_srAnOargkkk-guObaGGcP1g&usqp=CAU",FLIK
-http://axcestv.vip:8080/live/freeview/axcestv/715.ts
+http://axcestv.vip:8080/live/freeview/axcestv/523.ts
 
 #EXTINF:-1 tvg-id="Bioskop Indonesia" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnn7s3JQUEg0mwHcZDlipeNgbLfAOzudzwA&usqp=CA",Bioskop Indonesia
-http://axcestv.vip:8080/live/freeview/axcestv/716.ts
+http://axcestv.vip:8080/live/freeview/axcestv/524.ts
 
 >>>>>>>>>>>>>>>>>>>>
 
@@ -1338,6 +1338,9 @@ https://tinyurl.com/2p83sdxy
 #EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w185/1j6JtMRAhdO3RaXRtiWdPL5D3SW.jpg" group-title="VOD" type="movie",Sonic the Hedgehog 2 (2022) 
 "SUB",https://ytsubtitles.com/sonic-the-hedgehog-2/tt12412888/281972/download?download=51de2c2e3b473ca2c48c252d619b0c78c5923ee6&file=c9c5c4d1a40a6bdb957817e44bfcd54ba38bb737
 https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.The.Hedgehog.2.2022.1080p.WEB-DL.x264.DD5.1-EVO.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SsRyxrLrtv1ZH6kw3Bf30sJsbtrUkLSXUg&usqp=CAU",Upin & Ipin Edisi Ramadan Raya (2022)
+https://ng2.filerio.in/d/qkqmiwfrbrtmfuaggoqqenht4jzpl6yvtegf5xqjzcpqf7v6cd2bhh46cg7kynrra7ue5yfd/video.mkv
 
 !!!!!!!!!;!!!!!!!!!!!!!!Al-Quran........
 #EXTINF:-1 group-title="HTB | AL -QUR'AN" tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png",[007] Surah Al-A\raaf (Tempat Tertinggi)
