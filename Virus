@@ -5162,12 +5162,12 @@ https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015898
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIE",Thrill
+#EXTINF:0 tvg-id="" tvg-name="BECUP" tvg-logo="http://dusktill.masuk.web.id/img/thrill.png" group-title="MOVIE",Thrill
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
+#EXTINF:0 tvg-id="" tvg-name="BECUP" tvg-logo="http://dusktill.masuk.web.id/img/warner.png" group-title="MOVIE",Warner TV
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
  
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
