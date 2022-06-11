@@ -4366,10 +4366,6 @@ https://www.googleapis.com/drive/v3/files/1Bh-5POGBiFMB2a7lPiFDGhPGME5bgoK3?alt=
 ...................................
 ...................................
 ...................................
-
-       
- 
-#EXTM3U
  
  
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-VcwPqMO314I/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucly8RGcz0G2wMsb4HxFe2fkwMBwLg/photo.jpg?sz=46" group-title="NASIONAL",BUKUAN TV
@@ -5514,76 +5510,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
  
  
  
-########################################################### MALASIA #################################################
- 
- 
- 
-#EXTINF:-1 tvg-id="001" tvg-name="" tvg-country="MY"tvg-language="Malay" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Malaysia",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd  
-#EXTINF:-1 tvg-id="002" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Logo_of_TV2_%28Malaysia%29.svg" tvg-url="" group-title="Malaysia",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
- 
-#EXTINF:-1 tvg-id="003" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/TV3_%28Malaysia%29.svg" tvg-url="" group-title="Malaysia",TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
- 
-#EXTINF:-1 tvg-id="004" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://television-live.com/uploads/posts/46chgferwhehergf.png" tvg-url="" group-title="Malaysia",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
- 
-#EXTINF:-1 tvg-id="005" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" tvg-url="" group-title="Malaysia",TV-Okey
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
- 
-#EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="Malaysia",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
- 
-#EXTINF:-1 tvg-id="007" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.mediaprima.com.my/wp-content/uploads/2018/11/ntv7-icon_v1-1-g.jpg" tvg-url="" group-title="Malaysia",TV7
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
- 
-#EXTINF:-1 tvg-id="008" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png" tvg-url="" group-title="Malaysia",TV8
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
- 
-#EXTINF:-1 tvg-id="009" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png" tvg-url="" group-title="Malaysia",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
- 
-#EXTINF:-1 tvg-id="010" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.tvalhijrah.com/wp-content/uploads/2018/08/logotvalhijrah.jpg" tvg-url="" group-title="Malaysia",TV Hijrah
-https://alhijrahmedia.com/tv-alhijrah-live-streaming/
- 
-#EXTINF:-1 tvg-id="011" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Malaysia",RTM Berita
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
- 
-#EXTINF:-1 tvg-id="012" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c3/Saluran_Berita_RTM.png/revision/latest/scale-to-width-down/250?cb=20200914155210" tvg-url="" group-title="Malaysia",RTM Sport
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
- 
- 
- 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="Malaysia",ASTRO AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream01/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="DramaSangat.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.lyngsat.com/logo/tv/dd/drama-sangat-my.png" group-title="Malaysia",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
-#EXTINF:-1 tvg-id="SukanRTM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/tvSUKANlogo_NEW.jpg" group-title="Malaysia",Sukan
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
- 
-#EXTINF:-1 tvg-id="TV1.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg" group-title="Malaysia",TV1
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
-#EXTINF:-1 tvg-id="TV2.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV2
-https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
-#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
-#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV4
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV4.m3u8
- 
-#EXTINF:-1 tvg-id="TV3.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV5
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV5.m3u8
- 
- 
-#EXTINF:-1 tvg-id="TV6.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/TV6-PlayerLogo-JPG.jpg" group-title="Malaysia",TV6
-https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
-#EXTINF:-1 tvg-id="TV9.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9 (480p) [Not 24/7]
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
-#EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TVIKIM (720p) [Not 24/7]
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TVIKIM
+###EXTINF:-1 tvg-id="TVIKIM.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="Malaysia",TVIKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
  
  
