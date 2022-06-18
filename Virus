@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/astro.xml"
+
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
