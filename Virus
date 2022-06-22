@@ -233,7 +233,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 #EXTINF:-1 tvg-id="BollyoneHD" ch-number="251" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1007
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
+https://links.aqfadtv.xyz/bollyone.mpd
 
 #EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
