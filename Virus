@@ -35,7 +35,11 @@ http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/5.ts
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
-http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+https://links.aqfadtv.xyz/prima.mpd
+
+#EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima(bekup)
+http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/6.ts
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
@@ -331,7 +335,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 # https://linears-playback.astro.com.my/vsg/41XIhsuiAJb9D_yE1eifHDE3bycgQ7ecBQzq6QxQH48QM=BT3q/dash-wv/jitp-linearwm/2308/default_primary.mpd
 # https://live.astradamy.com/astro/huaheedai/index.mpd
-https://onedrive.aqfadtv.xyz/api/raw/?path=/expired.mp4&raw=true
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CCTV4" ch-number="335" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -394,6 +398,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2407
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 https://links.aqfadtv.xyz/boo.mpd
+
+#EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/BOOWhite.png",404 BOO (bekup)
+http://go2888.xyz:2095/live/User38282/DNAkVhCwwu/73.ts
 
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
