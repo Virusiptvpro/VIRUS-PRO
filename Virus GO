@@ -727,7 +727,8 @@ https://astro3.rastream.com/melody
 
 #EXTINF:-1 group-title="Radio Astro" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
 https://astro3.rastream.com/raaga
-#EXTINF:-1 group-title="Radio Stations" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png",SYOK Classic Rock
+
+#EXTINF:-1 group-title="Radio Astro" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png",SYOK Classic Rock
 https://astro4.rastream.com/rock
 
 #EXTINF:-1 group-title="Radio Astro" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokGold2021.png",SYOK Gold
@@ -813,7 +814,7 @@ http://go2888.xyz:2095/live/User38282/DNAkVhCwwu/73.ts
 #EXTINF:-1 tvg-id="CHN" group-title="Tambahan" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png" ch-number="463",463 Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SGEM.id" ch-number="471" group-title="Wireguard Needed" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",471 GEM
+#EXTINF:-1 tvg-id="SGEM.id" ch-number="471" group-title="Tambahan" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/200?cb=20201126072306",471 GEM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 #EXTVLCOPT:http-user-agent=DmpPlayer/20.0.25.15
@@ -885,6 +886,158 @@ EXTINF:-1 tvg-id="474" ch-number="474" group-title="Tambahan" tvg-logo="https://
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MmVkNzNjM2YtZTNlYS0zYzIyLWEzZmMtNjc5MTI1ZGE4NDEw
 https://tv.kpsvpn.com/rockext.m3u8
+
+
+#############MOVIE############
+
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama.jpg",Penunggang Agama
+https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama-2-poster.jpg",Penunggang Agama 2
+# https://www76.sbcdnvideo.com/hls/tysxfzqbb666j6cdabebhxs7fzodsk4q4rnp3rotaa66nhupduxkxltnfpaq/index-v1-a1.m3u8
+https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang.Agama.2.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/olympic-dream.png",Olympic Dream
+https://onedrive.astradamy.com/api?path=/Movies/Olympic.Dream.2021.1080p.WEB-DL-ms.en.zh-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Venom-Let-There-Be-Carnage.png" group-title="VOD" type="movie",Venom: Let There Be Carnage
+https://onedrive-aqfad.vercel.app/api?path=/VOD/Venom.Let.There.Be.Carnage.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/on-your-mark-poster.png",On Your Mark
+https://onedrive-aqfad.vercel.app/api?path=/VOD/On.Your.Mark.2021.Chinese.720p.HDRip.Eng.Chi.HardSub-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Shang-Chi_and_the_Legend_of_the_Ten_Rings_poster.png",Shang-Chi and the Legend of the Ten Rings
+https://onedrive.astradamy.com/api?path=/Movies/Shang.Chi.and.the.Legend.of.the.Ten.Rings.2021.1080p.BrRip-ms.en-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/NoTimeToDie.png",No Time to Die
+https://onedrive.astradamy.com/api?path=/Movies/No.Time.to.Die.2021/No.Time.to.Die.2021.1080p.WEB-DL-ms.en.id-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Apple TV+" tvg-logo="https://aqfadtv.astradamy.com/images/Finch.png",Finch
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Finch.2021.720p.ATVP.WEB-DL.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Last-Man-Down.png",Last Man Down
+https://onedrive-aqfad.vercel.app/api?path=/VOD/Last.Man.Down.2021.720p.BRRip-OMG.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/Kha3nak-Serangan-Pocong-Poster.png",Khaenak : Serangan Pocong
+https://onedrive.astradamy.com/api?path=/Movies/khaenak%20serangan%20pocong%20convert.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SiapaTutupLampu.png",Siapa Tutup Lampu?
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Siapa.Tutup.Lampu.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/Proksi.png",Proksi
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Proksi.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Eternals.png",Eternals
+https://onedrive.astradamy.com/api?path=/Movies/Marvel's.Eternals.2021/Eternals.2021.IMAX.1080p.DSNP.WEBRip.DDP5.1.Atmos.x264-TEPES.mkv&raw=true&type=file.mp4
+
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/SpidermanNoWayHome.jpg",Spiderman: No Way Home
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Spider-Man%20No%20Way%20Home%20(2022)%20BR%20malaysub.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/GraciasBarcelona.jpg",Gracias Barcelona
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Gracias.Barcelona.2022.1080p.WEB-DL-ms.en-PENCURiMOViE.ONE.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/SAYR.png",Siti: Are You Ready (Docu-Film & Concert)
+https://onedrive.astradamy.com/api/raw/?path=/Events/Dato.Sri.Siti.Nurhaliza/Siti.Are.You.Ready.Docu.Film.2021.1080p.WEB-DL-ms.en-PENCURiMOViE.CYOU.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfadtv.astradamy.com/images/KPBDK.png",Kampong Pisang Berbuah Dua Kali
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Kampong%20Pisang%20Berbuah%20Dua%20Kali%20(2022)%201080p%20WEBDL-MARX.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro Citra" tvg-logo="https://aqfadtv.astradamy.com/images/IbuBelumMati.jpg",Ibu Belum Mati
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/Ibu.Belum.Mati.2021.720p.HDTV.AAC.H.264_OMG_5816813194114501242.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/TheKingsMan.png",The Kings Man
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Movies/The%20KingsMan%20(2021)%201080p%20BR%20malaysub..mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://image.tmdb.org/t/p/w185/1j6JtMRAhdO3RaXRtiWdPL5D3SW.jpg" group-title="VOD" type="movie",Sonic the Hedgehog 2 (2022) 
+"SUB",https://ytsubtitles.com/sonic-the-hedgehog-2/tt12412888/281972/download?download=51de2c2e3b473ca2c48c252d619b0c78c5923ee6&file=c9c5c4d1a40a6bdb957817e44bfcd54ba38bb737
+https://onedrive.astradamy.com/api/raw/?path=/Movies/Sonic.the.Hedgehog/Sonic.The.Hedgehog.2.2022.1080p.WEB-DL.x264.DD5.1-EVO.mkv
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4SsRyxrLrtv1ZH6kw3Bf30sJsbtrUkLSXUg&usqp=CAU",Upin & Ipin Edisi Ramadan Raya (2022)
+https://c1.videobin.co/hls/oudvgwxz3ftk2yixv4noierfdoo2kazrwuppdjtyyghuxqe6sxl57inqxeza/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/TheAdamProject.jpg",The Adam Project
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/The%20Adam%20Project%20(2022)%201080p%20WEB%20malaysub.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://aqfadtv.astradamy.com/images/Moonfall.jpg",Moonfall
+https://onedrive.aqfadtv.xyz/api/raw/?path=/VOD/Movies/Moonfall.2022.1080p.WEB-OMG.mp4
+
+#EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/1.png",Episode 1
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP01.mp4
+
+#EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/2.png",Episode 2
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP02.mp4
+
+#EXTINF:-1 type="series" group-title="Moon Knight" tvg-logo="https://aqfadtv.astradamy.com/images/MoonKnight/3.png",Episode 3
+https://aqfadtvonedrive.vercel.app/api/raw/?path=/VOD/Series/Moon-Knight/EP03.mp4
+
+#EXTINF:-1 type="movie" group-title="VOD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzzFYczgufsR1VZbadYvtIvRKYnNnb8tz9w&usqp=CAU"group-title="VOD" type="movie",The Batman
+https://onedrive.astradamy.com/api/raw/?path=/Movies/The.Batman.2022/The.Batman.2022.1080p.HMAX.WEB-DL.DDP5.1.Atmos.x264-CMRG%5BTGx%5D.mkv
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://onedrive.astradamy.com//api?path=%2F%2F0.jpg&raw=true" group-title="Events",Astro 25 Concert
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=eda13a0150d13d38ad4ff33c9f027410&key=bb4dfc03376da3356e55eed3349cf482
+# https://vodejitp-asset-playback.astro.com.my/dash-wv/vode/493f1710-26a3-591a-902c-7a8168b374e2/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Events/Astro25-Concert.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" ch-number="CHN" tvg-logo="https://linear-poster.astro.com.my/prod/poster/JWRIK_IVP_LAND_672x378.jpg" group-title="VOD",Astro 25 Concert Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b27bea55aa0f4b4d9955f7587a30910&key=07350898db92952d15dcd6ef1a956a8a
+https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/e192fc4a-9f1e-56ea-ace3-2ce0181a9650/default_ott.mpd
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_IVP_LAND_448x252_20211126_82221.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 1
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.1.1080p.H264-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFJ_IVP_LAND_448x252_20211126_82249.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 2
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.2.720p.H264.AAC-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFK_IVP_LAND_448x252_20211126_82323.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6cf305b4560c6b6ccfb7d1c7cac96310&key=3fe2e09cf7e1c7e356b6c1bfb9e5bd43
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/38f0f4f6-3eae-5b1f-935c-12cfc7deb42d/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-3.mp4&raw=true&type=file.mp4
+
+
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFL_IVP_LAND_448x252_20211126_82448.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cd4d21b531275151a6b35f1a85881310&key=123214b8a1fe205b9583505dd5861d57
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/37d5e4e0-7749-565f-96a2-a6c663864866/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-4.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 5
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.5.1080p.WEB-DL.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFN_IVP_LAND_448x252_20211126_82524.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 6
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.6.1080p-WEB-DL.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=69ba90733d8fb6638f2ced3b196c2d10&key=9ee1c11a762c6da8244ff3ac9b085d72
+# https://vodejitp-asset-playback-b.astro.com.my/dash-wv/vode/a13624b9-7b98-5130-858e-1081ceedb6e3/default_ott.mpd
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-7.mp4&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 8
+https://onedrive.aqfadtv.xyz/api?path=/VOD/Series/Maharaja-Lawak-Mega/2021/Minggu-8.mkv&raw=true&type=file.mp4
+
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu 9
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.9.1080p-WEB-DL.mkv&raw=true&type=file.mp4
+
+#EXTINF:-1 tvg-id="CHN" type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXAFI_series_IVP_LAND_672x378_20211013_141054.jpg" group-title="Maharaja Lawak Mega 2021",Minggu Akhir
+https://onedrive.astradamy.com/api?path=/TVSeries/Maharaja.Lawak.Mega/2021/Maharaja.Lawak.Mega.2021.Minggu.Akhir.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+
+
+
+
+
+
+
+
+
 
 
 
