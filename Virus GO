@@ -12,22 +12,27 @@ refresh="3600"
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
+https://movierakyat.link/TV1.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+https://movierakyat.link/TV2.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 https://Astro.kpsboyserver.com/tv3.m3u8
 
+
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/5.ts
 #https://Astro.kpsboyserver.com/AstroRia.mpd
 https://links.aqfadtv.xyz/ria.mpd
+https://movierakyat.link/m8qjxq.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
