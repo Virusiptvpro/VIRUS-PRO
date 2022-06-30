@@ -9,6 +9,12 @@ refresh="3600"
 
 
 
+#EXTINF:-1 tvg-id="OPPA MANIA" group-title="Astro" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_ott.mpd
+
+
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
@@ -801,7 +807,7 @@ http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/13.ts
 #http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301051401&password=878900&stream=721
 http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/14.ts
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="myFreeview" ch-number="100" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",100 Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="myFreeview" ch-number="10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",10 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
