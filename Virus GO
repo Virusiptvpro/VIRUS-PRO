@@ -19,13 +19,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5078/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
-https://movierakyat.link/TV1.mpd
+#https://movierakyat.link/TV1.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV2" group-title="myFreeview" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
-https://movierakyat.link/TV2.mpd
+#https://movierakyat.link/TV2.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 https://Astro.kpsboyserver.com/tv3.m3u8
