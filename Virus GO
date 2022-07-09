@@ -40,8 +40,7 @@ https://live.astradamy.com/tv3/index.m3u8
 https://movierakyat.link/m8qjxq.mpd
 https://links.aqfadtv.xyz/ria.mpd
 https://linears-playback.astro.com.my/vsg/41KPzKMI9pj8KlBCMu4dx_bh4Km8kYGpF3q5-mLufjmTM=uy0t/dash-wv/jitp-linearwm/1004/default_primary.mpd
-https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704165
-http://50.7.220.74:8278/Ria/22070918182984.ts
+http://139.99.96.163:2095/live/User38281/ANdvQ7s4qyS/5.ts
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -65,8 +64,7 @@ https://movierakyat.link/mTqyrs.mpd
 https://links.aqfadtv.xyz/warna.mpd
 https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704167
 https://tv.kpsvpn.com/astroghana.mpd
-http://50.7.220.74:8278/Warna/22070918182984.ts
-
+http://139.99.96.163:2095/live/User38281/ANdvQ7s4qyS/13.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -76,8 +74,7 @@ https://movierakyat.link/ePggbR.mpd
 https://links.aqfadtv.xyz/citra.mpd
 https://m3u-editor.com/serve/4b1cdaa0-ef29-11ec-80f6-af70dad18270/584704170
 https://tv.kpsvpn.com/astroira.mpd
-http://50.7.220.74:8278/Citra/22070918182984.ts
-
+http://139.99.96.163:2095/live/User38281/ANdvQ7s4qyS/14.ts
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -93,6 +90,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 #http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 https://links.aqfadtv.xyz/rania.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="AstroAura" group-title="Astro" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,8 +224,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default_ott.mpd
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Astro",241 ABO Thangathirai HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=31ff25ad46df61d3352a03de5f085f10&key=2daee966c9736498a05505174b266bde
-#http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
-https://stream.zeehanzgadget.com/abomovies.mpd
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BollyoneHD" ch-number="251" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -791,30 +788,10 @@ https://astro4.rastream.com/kenyalang
 
 #################TAMBAHAN################$
 
-#EXTINF:-1 group-title="Tambahan" tvg-id="AstroRia" ch-number="" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png", Astro Ria (bekup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1004
-# https://linearjitp-playback.astro.com.my/dash-wv/linear/1004/default_ott.mpd
-http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/5.ts
-
-#EXTINF:-1 tvg-id="AstroPrima" group-title="Tambahan" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445", Astro Prima(bekup)
-http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/6.ts
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="Tambahan" ch-number="" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Tambahan" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850", Astro Warna (bekup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2402
-http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/13.ts
-
-
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Tambahan" ch-number="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355", Astro Citra (bekup)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2700
-#http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301051401&password=878900&stream=721
-http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/14.ts
 
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="myFreeview" ch-number="10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png/revision/latest/scale-to-width-down/300?cb=20210408125347",10 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -839,8 +816,6 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmE2NGM5MTMtYjc1NS0zNGE1LTk3ZDctYzQ0OTUyMmQ5MjVk
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-id="BOO" ch-number="" group-title="Tambahan" tvg-logo="https://aqfadtv.astradamy.com/logos/BOOWhite.png", BOO (bekup)
-http://go2888.xyz:2095/live/User38282/DNAkVhCwwu/73.ts
 
 
 
