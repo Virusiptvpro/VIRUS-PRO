@@ -1,6 +1,6 @@
 VIRUS IPTV PRO GO
 
-Pp#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, 
 https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, 
 https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, 
 https://weareblahs.github.io/epg/astro.xml,
@@ -534,8 +534,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
-
+#http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
+http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/89.ts
 
 #EXTINF:-1 tvg-id="TA-DAA!" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
