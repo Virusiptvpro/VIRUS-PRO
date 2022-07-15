@@ -538,8 +538,7 @@ http://iptv12k.com:35461/80301062102/732099/730
 
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Astro Bekup" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",Astro Ceria 
-http://zalogitv.tech:8080/streaming/clients_live.php?extension=ts&username=78mastro78&password=787980&stream=1800
-
+http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/89.ts
 
 #EXTINF:-1 tvg-id="TA-DAA!" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
