@@ -44,8 +44,7 @@ https://linears-playback.astro.com.my/vsg/41zJ03jis1XjG4-s8LvxDvUoAjPZrGkI7g0ObN
 
 #EXTINF:-1 group-title="Astro Bekup" tvg-id="AstroRia" ch-number="" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",Astro Ria Bekup
 #http://iptv12k.com:35461/80301062102/732099/4353
-#http://50.7.40.2:3977/live/4f62bc4f-4a22-4417-837c-ec2fad5694ff.m3u8
-http://50.7.40.2:3977/live2/127.0.0.1:1977/hls/21623_MY_P_RIA_HD-20220715-1657900715.ts
+http://50.7.40.2:3977/live/4f62bc4f-4a22-4417-837c-ec2fad5694ff.m3u8
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
