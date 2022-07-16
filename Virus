@@ -192,7 +192,8 @@ https://stream.zeehanzgadget.com/vinmeen.mpd
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Movies" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b99cf66a51cfe4502e73ada5729d9010&key=663541fe51f4c095cd23097730ef7608
-https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/202/default_primary.mpd
+http://50.7.40.2:3977/live2/127.0.0.1:1977/hls/124473_MY_P_ASTRO_VELLITHIRAI_FHD-20220717-1657988036.ts
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
