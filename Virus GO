@@ -9,6 +9,12 @@ refresh="3600"
 
 
 
+#EXTINF:-1 tvg-id="OPPA MANIA" group-title="Astro test" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
+#EXTVLCOPT:http://myip.ipip.net/
+#EXTVLCOPT:http://ode4.tdxwow.com/api/wbtj5hmx
+http://ode4.tdxwow.com/live/t6u5b1q4/amlxy016/index.m3u8
+
+
 #EXTINF:-1 tvg-id="OPPA MANIA" group-title="Astro" ch-number="100" tvg-logo="https://linear-poster.astro.com.my/prod/logo/OppaMania_V1.png",100 OPPA MANIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5078
