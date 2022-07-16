@@ -23,7 +23,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV3" group-title="myFreeview" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 #https://Astro.kpsboyserver.com/tv3.m3u8
-https://live.astradamy.com/tv3/index.m3u8
+#https://live.astradamy.com/tv3/index.m3u8
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
