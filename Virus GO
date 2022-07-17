@@ -513,7 +513,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
-https://linears-playback.astro.com.my/vsg/414N_TNcbRzYfIlLMoPnzK9ercP8LPsmV2lMt7lxJajsM=CoI8/dash-wv/jitp-linearwm/2606/166/video-cif-stream-2-149225798133125.m4f
+https://linears-playback.astro.com.my/vsg/414N_TNcbRzYfIlLMoPnzK9ercP8LPsmV2lMt7lxJajsM=CoI8/dash-wv/jitp-linearwm/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TA-DAA!" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
