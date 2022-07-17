@@ -512,7 +512,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #EXTVLCOPT:http://go1688.xyz/newtv//authenticate_key.php?mac=38:e6:0a:8c:36:91&cpuid=GEMINI1852389796284872&state=2&key=6JxCKlkwj7Utij0rQ2NUEvHfeRHNcxEhKlZsgnGA1tHr2bZALlns&version=30
-http://139.99.96.163:2095/live/User39281/UDnAlgqObgx/89.ts
+http://w.nasvpn.xyz:8080/saya/saya/177
+
 
 #EXTINF:-1 tvg-id="TA-DAA!" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
