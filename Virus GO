@@ -32,7 +32,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/ria.mpd
-https://linears-playback.astro.com.my/vsg/41zJ03jis1XjG4-s8LvxDvUr7vikUGXBP74E507yMmCgo=OXlJ/dash-wv/jitp-linearwm/1004/default_ott.mpd?10
+https://linears-playback.astro.com.my/vsg/41zJ03jis1XjG4-s8LvxDvUu26ytpVvojTGDsokPJRpHs=tZNO/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,14 +53,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
-https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpW8OVBaX_RkVtYsgS-iprDA=0Lis/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
+https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpd75vy1GH1qqNyIGN0z2eZU=c4XE/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/citra.mpd
-https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpQ6yz8gNL2dG1e5z6uA1rvU=2IUn/dash-wv/jitp-linearwm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpZy_3XcWVMwwF3MVWdY70Sw=bEtf/dash-wv/jitp-linearwm/2700/default_ott.mpd?11
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -150,7 +150,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-https://linears-playback.astro.com.my/vsg/41N-Kzg_s56irnpB5aBHthOcf_WzezyyVqgu3dHDew41s=c6ZI/dash-wv/jitp-linearwm/2105/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41N-Kzg_s56irnpB5aBHthOU1jjwgEVy9Ap0BJn2tMo30=hPE_/dash-wv/jitp-linearwm/2105/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroVellithirai" ch-number="203" group-title="Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroVellithirai.png",203 Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -4214,6 +4214,17 @@ http://39.135.138.60:18890/TVOD/88888910/224/3221225746/index.m3u8
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLgs-UqnUrUOWBWhKE4H9T4uu9l6YYDKl667MSZWdY_jvIVbL_c24W5KvW-FVVobDLQI29LU6MofmU4Aa2RHlscy04D3853v5rAO6sls4_hGQqT-MZAARL3YEjhJMV3Vch8ziKK794Tw4IPlW3m5uXhBAf2EQRnwhmSCh4mCC7VydLvoNTW694-0Rt0w/w0/35mm.jpg",35mm
 https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/35mm.2022.1080p.WEB-DL.mkv
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-id="701" group-title="SPORTS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 group-title="SPORTS" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
 
