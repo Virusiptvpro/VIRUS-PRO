@@ -32,9 +32,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-#https://linears-playback.astro.com.my/vsg/41zJ03jis1XjG4-s8LvxDvUnRAMCF_brPfO6PciBFCREI=SpYq/dash-wv/jitp-linearwm/1004/default_ott.mpd
-http://live8.sproxy.iptv8k.org/review_stream/riakriakbmm22/20220729/22/1659105037-647.ts
-#http://live8.sproxy.iptv8k.org/review_stream/riakriakbmm22/i.m3u8
+https://linears-playback.astro.com.my/vsg/41zJ03jis1XjG4-s8LvxDvUp5YkrYjEF6zp6WySbkJMQY=fsle/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,7 +53,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
-https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpfXmBA2CAO2n-wAfayOcODU=tmFj/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
+https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpf60ioot-VsACjp5rtcFHxs=mZ9b/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna Bekup
 https://aqfadtv.xyz/warna.m3u8
@@ -65,7 +63,7 @@ https://aqfadtv.xyz/warna.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/citra.mpd
-https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpWhs7XpPqt5W5zIBbxQLgqA=THMC/dash-wv/jitp-linearwm/2700/default_ott.mpd?10
+https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpTSbOR-sNUtJhhy8dk-w8QQ=zUlZ/dash-wv/jitp-linearwm/2700/default_ott.mpd?10
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra Bekup
 https://aqfadtv.xyz/citra.m3u8
@@ -159,7 +157,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39e518b58aff65d51ddd05d1597b1e10&key=e0fb4b6bf638b44756b6363ffb3db659
-https://linears-playback.astro.com.my/vsg/41N-Kzg_s56irnpB5aBHthOdy26BMJ4X--4LHsm8g6CJ4=7q5v/dash-wv/jitp-linearwm/2105/default_ott.mpd?11
+https://linears-playback.astro.com.my/vsg/41N-Kzg_s56irnpB5aBHthOSEyEeOsEQ28cG-30HwONi4=t4kV/dash-wv/jitp-linearwm/2105/default_ott.mpd?10
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD Bekup
 https://aqfadtv.xyz/vinmeen.m3u8
