@@ -219,9 +219,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2109/default_ott.mpd
 
 #EXTINF:-1 tvg-id="BollyoneHD" ch-number="251" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",251 Bollyone HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1007
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=cb6c0c34cd3b22efd444edfd21393c10&key=84750873ded43774b06b43b67717a708
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1007/default_ott.mpd
-https://links.aqfadtv.xyz/bollyone.mpd
 
 #EXTINF:-1 tvg-id="iQIYI" ch-number="300" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",300 IQIYI HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -236,17 +235,19 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=d3c8254e50da7724a51b591a83205b10&key=430df09e80ddc23d14f0acf7d24c5a46
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
-# http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVBClassic" ch-number="305" group-title="Astro" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9481ab597f06bb7fa40cb2364c126210&key=f2b4b15da2544303c44d3ca0b16d3de8
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5016
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Astro" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2400
 # https://live.astradamy.com/astro/aec/index.mpd
 #https://Astro.kpsboyserver.com/AstroAec.mpd
@@ -259,6 +260,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2507
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2507/default_ott.mpd
 
