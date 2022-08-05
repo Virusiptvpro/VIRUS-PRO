@@ -7,17 +7,17 @@ refresh="3600"
 #EXTINF:-1 tvg-id="" tvg-chno="1001" tvg-name="Astro Tutor TV SK" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SK.png",Astro Tutor TV SK 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=006482b5d028cea9803e89daf599a810&key=cf5be288741818ab252dba02533764be
-http://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/214/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="1002" tvg-name="Astro Tutor TV PT3" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_PT3_v1.png",Astro Tutor TV PT3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8a778dba8725013f6f3ceea5f4025110&key=ae73ac1806eca1119473db3515ff4d60
-http://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/314/default_ott.mpd
 
 #EXTINF:-1 tvg-id="" tvg-chno="1003" tvg-name="Astro Tutor TV SPM" radio="false" group-title="LIFESTYLE & KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_TTV_SPM_v1.png",Astro Tutor TV SPM 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=aa16cabfc85efa0805355cebbea9ed10&key=5cb8814069cfdcbd4f3a50fb025ea585
-http://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/313/default_ott.mpd
 
 
 
