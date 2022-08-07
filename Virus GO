@@ -28,6 +28,10 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
 https://aqfadtv.xyz/ria.mpd
 
+#EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (serve1)
+http://172.96.160.37:9138/stream/live/c20629.m3u8?idstream=ria
+
+
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
@@ -49,8 +53,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #https://links.aqfadtv.xyz/warna.mpd
 https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpTRuRxRTjx6lvrhxc5xaxbs=zS_1/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna Bekup
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (serve1)
 https://aqfadtv.xyz/warna.m3u8
+
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (serve2)
+http://172.96.160.37:9138/stream/live/c20424.m3u8?idstream=warna
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,9 +67,11 @@ https://aqfadtv.xyz/warna.m3u8
 https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpV0hkEplw9-HxPMx-ER14eU=UGqz/dash-wv/jitp-linearwm/2700/default_ott.mpd?10
 
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra Bekup
+#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (serve1)
 https://aqfadtv.xyz/citra.m3u8
 
+#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (serve2)
+http://104.238.221.63:9138/stream/live/c20425.m3u8?idstream=citra
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -622,25 +631,64 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 # http://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_ott.mpd
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/106.ts
-https://linearjitp-playback.astro.com.my/dash-wv/linear/601/manifest.mpd
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
+
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Astro" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport (serve1)
+https://srv.vhls.ru.com/cdn/premium123/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Astro" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport (serve2)
+https://srv.vhls.ru.com/cdn/premium123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="Astro" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport (serve3)
+https://networkbest.ru.com/cdn/premium123/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="Astro" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/107.ts
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/manifest.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/manifest.mpd
+https://aqfadtv.xyz/supersport2.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Astro" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 (serve1)
+https://srv.vhls.ru.com/cdn/premium124/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Astro" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 (serve2)
+https://networkbest.ru.com/cdn/premium124/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="Astro" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 (serve3)
+https://srv.vhls.ru.com/cdn/premium124/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="Astro" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/108.ts
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/manifest.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/manifest.mpd
+https://aqfadtv.xyz/supersport3.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Astro" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 (serve1)
+https://srv.vhls.ru.com/cdn/premium125/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="Astro" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 (serve2)
+https://networkbest.ru.com/cdn/premium125/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Astro" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/109.ts
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
+https://aqfadtv.xyz/supersport4.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Astro" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 (serve1)
+https://srv.vhls.ru.com/cdn/premium123/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Astro" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 (serve2)
+https://srv.vhls.ru.com/cdn/premium126/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport4" group-title="Astro" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 (serve2)
+https://networkbest.ru.com/cdn/premium126/playlist.m3u8
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Astro" ch-number="815" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroSupersport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
