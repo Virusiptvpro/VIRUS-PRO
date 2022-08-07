@@ -101,12 +101,11 @@ https://origin.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="myFreeview" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
 
 #EXTINF:-1 tvg-id=" " group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",RTM Sports HD
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://aqfadtv.astradamy.com/logos/TVAlhijrahWhite.png" group-title="myFreeview",114 TV AlHijrah
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -622,6 +621,17 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=835f1c94b9a333eea1e7bb78b0a79010&key=57f68cdc4023fc8511dc1ea6b5502a1c
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 tvg-id="701" group-title="Online"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
+#EXTINF:-1 group-title="Online" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
 
 #EXTINF:-1 tvg-id="eGGNetwork" ch-number="800" group-title="Astro" tvg-logo="https://aqfadtv.astradamy.com/logos/eGGNetworkWhite.png",800 eGG Network HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4269,15 +4279,76 @@ https://beaqfad.vercel.app/api/raw/?path=/VOD/Movies/Makmum2.2021.1080p.WEB-DL.H
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 tvg-id="701" group-title="SPORTS"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+=================THAILAND ================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
-#EXTINF:-1 group-title="SPORTS" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTrFQ.png" group-title="THAILAND",MONO29
+https://freelive.inwstream.com:1936/freelive-edge/mono29/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/30/n7Or7a.png" group-title="THAILAND" ,MONO29 PLUS
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/109/109.mpd
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvfpDq.png" group-title="THAILAND",5HD
+https://freelive.inwstream.com:1936/freelive-edge/5hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvhQWb.png" group-title="THAILAND",NBT
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvh0De.png" group-title="THAILAND",PBS
+hhttps://freelive.inwstream.com:1936/freelive-edge/thaipbs/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvkrFf.png" group-title="THAILAND",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvkm2I.png" group-title="THAILAND",TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/up45aV.jpg" group-title="THAILAND", TSports7
+http://aya-streamer2.cdn.3bbtv.com:8080/3bb/live/7/7.mpd
+http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/36
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv3AwP.jpg" group-title="THAILAND",TNN24
+https://freelive2.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9fx0.png" group-title="THAILAND",JKN18
+https://freelive.inwstream.com:1936/freelive-edge/nation/chunks.m3u8?nimblesessionid=341262208
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9Dxy.png" group-title="THAILAND",NationTV
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTbyI.png" group-title="THAILAND",workpoint
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvKA1N.png" group-title="THAILAND",True4u
+https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTsqk.png" group-title="THAILAND",GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvT6gN.png" group-title="THAILAND",CH8
+https://freelive.inwstream.com:1936/freelive-edge/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTXGg.png" group-title="THAILAND",MCOT HD
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvK0fn.png" group-title="THAILAND",ONE31-HD
+https://www.livedoomovies.com:4431/02_GMMONE_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTzyS.png" group-title="THAILAND",Thairath-TV
+https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png" group-title="THAILAND",CH3 HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png" group-title="THAILAND",AMARIN-TV-HD
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png" group-title="THAILAND",CH7 HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv1LSk.png" group-title="THAILAND",PPTV-HD
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/23/6mYg3y.jpg" group-title="THAILAND", Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 
