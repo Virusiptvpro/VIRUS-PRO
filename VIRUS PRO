@@ -21,6 +21,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 #https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
+#EXTINF:-1 tvg-id="103" group-title="myFreeview" ch-number="103"  tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",103 TV3 (serve1)
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3
+
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
