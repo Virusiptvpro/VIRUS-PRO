@@ -3,11 +3,10 @@ VIRUS IPTV PRO GO
 #EXTM3U url-tvg="https://bit.ly/epgvirus_tv"  
 refresh="3600"
 
-
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5084
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5084/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://pastebin.pl/view/raw/f6c1fee1
+https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9I6wh-cYn0GDBaqFO5U3v9o=i_Yj/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -59,7 +58,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40bb94cdb1c90f6cc15073d9a500c810&key=264de3f18e64770e92a2d29f2b177701
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://links.aqfadtv.xyz/warna.mpd
-https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9I6wh-cYn0GDBaqFO5U3v9o=i_Yj/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
+#https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9I6wh-cYn0GDBaqFO5U3v9o=i_Yj/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
+
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (serve1)
 https://aqfadtv.xyz/warna.m3u8
