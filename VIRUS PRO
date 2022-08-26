@@ -5,7 +5,7 @@ refresh="3600"
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://pastebin.pl/view/raw/f6c1fee1
+#KODIPROP:inputstream.adaptive.license_key=https://sg-sg-sg.astro.com.my:9443/ctap/r1.6.0/devices/me/playsessions/abr-linear-2ec0ae9e-edc6-434c-8a84-2f5d0887248e?playPosition=0
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9I6wh-cYn0GDBaqFO5U3v9o=i_Yj/dash-wv/jitp-linearwm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
