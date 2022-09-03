@@ -903,9 +903,12 @@ https://tv.kpsvpn.com/rockext.m3u8
 
 #############MOVIE############
 
-#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTi6QGxdTe2rpz42UqdKnfV3_5-Isb_b3dA&usqp=CAU",KKN DI DESA PENARI
-https://sto133.akamai-cdn-content.com/tysxepyb2s76j6cdaa6qfwsagcop5h4jucfp4qfrq26gf5jloppxzd3wuibq/KKN_Di_Desa_Penari_(2022)_1080p_WEB_MalaySub-JDB.mp4
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7W9eeqDxS3QUlmLZuhTRQWwjFL2nyWtdOYg&usqp=CAU", Minions: The Rise of Gru
+https://872371108.tapecontent.net/radosgw/z72llymXWoHYjvD/HaOu5fPdu2XTYaP1RiwzyfVDyhLfWl6QPbKbwJOsMpwZH8MMbx86e8TaTnYE-RBWwVqX74sMU055NbeuKjknk9EmOKUjFucLYDq841805w3PLEdOCS5aQZhAMz8NN6GrMh1faSbHh9LSGOHd-1bwmuT1q-YZcUgmnkSTL8pDg2ZLW69e-LNVWh1GeznXzHn_WW6NaKQJ2glNogo2kyMgXO07A270Pn0zDqQwtZkaalCtViv5HI4miLivqI0albFAg_0Yfvr2OPvW6ldPy-vVWgh5whbC9RPIKw-zrjzrxXl3Xps6Ad6CCnjpkfoydU8snmoAuHs6IBdjiqTg/Minions+The+Rise+of+Gru+%282022%29+1080p+BluRay+Malaysub.mp4?stream=1
 
+
+#EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTi6QGxdTe2rpz42UqdKnfV3_5-Isb_b3dA&usqp=CAU",KKN DI DESA PENARI
+https://908505633.tapecontent.net/radosgw/WqBxeO3D4lIr8x/ZQzgknk0Or4TWxXnAFdx4ZGRw6AjzzuU57NLllk_JXmjZfPbDZnmyhppyyudz6U9z-8NfloO8EDyx5ReoYMHmRPBSw4RZ-XTxogG0e7x_Im7vsUn_NTZJgwezvRlaVXgJCL5buDavZ0uyGfQmxoMUo2FXJ2ZlDs6ZaWP_7QNfbRtTBnkYj4Wl5qq-IZjtG3TgdXn910085pv3uMbUfmJ14lRId4KnIW4mSxr9xJ1yZPCbOWFajmTBEsAtwdKWivR45h0jQxQC4Ivj2MLi0bXJqKQZiVdHSPCjevcTKgrHUAop-p-SAqPpjiaJrAr_MjVLysWESL-Q6RgtBdQ/KKN+Di+Desa+Penari+%282022%29+1080p+WEB+MalaySub-JDB.mp4?stream=1
 
 #EXTINF:-1 type="movie" group-title="Astro First" tvg-logo="https://aqfad.xtgem.com/images/penunggang-agama.jpg",Penunggang Agama
 https://onedrive.astradamy.com/api?path=/Movies/Penunggang.Agama/Penunggang%20Agama%20(2021)%20HDTV%201080p-OMG-Anonymous.mp4&raw=true&type=file.mp4
