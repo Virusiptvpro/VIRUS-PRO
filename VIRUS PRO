@@ -1186,6 +1186,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #EXTINF:-1 tvg-ID="BeInSports3Indonesia.qa" group-title="🇮🇩Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_426.jpg",BEIN SPORTS 3 HD
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTINF:-1 group-title="🇮🇩Indonesia" tvg-id="SpoTV.kr" tvg-chno="100" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_427.png",SPOTV HD
