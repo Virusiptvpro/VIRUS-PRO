@@ -20,8 +20,7 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http://app.iptv8k.org/mobile//GetLiveAdv.aspx?version=android&area=&type=%E7%9B%B4%E6%92%AD&name=RIA%28B%29+Astro&stream=true
-https://aqfadtv.xyz/ria.mpd
-
+https://aqfadtv.xyz/live/ria/index.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -135,4 +134,5 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 #EXTINF:-1 tvg-id="GOShop" ch-number="149" group-title="Shopping" tvg-logo="https://i.kampung.xyz/c/20d0f2053da42ed2.png",150 Go Shop  
 https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 
-
+#EXTINF:-1 tvg-id="AstroSensasi" group-title="Astro" ch-number="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",Astro Sensasi
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/372542.ts
