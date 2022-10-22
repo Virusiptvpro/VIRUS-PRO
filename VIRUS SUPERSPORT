@@ -4,11 +4,6 @@ SUPERSPORT
 refresh="3600"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09YeEo5TFV3aU52Rl9sQUtpS0tSR1dDR29JeUFndXpHNU85eEowVnI4aHFlNkRLYzAyb05HQk1EcFEwTjJpVWhlMXR5eFRBUERTeWpwcnVVMm9LYkk5aW82bmxpaVhfMlFDYnN5RXl3YTFwdGV2QndSTGN2bHAwYVZxZ3BsUVUtVWVHQ1VvS3NKTDU1QXJXNXZRVC00Rm54TkU5SFZPYXFkZldWZDJCMFhEcHM2UU5FZUJxRGVJc0lWRXRaN1pSR0FJSDJkS0tJRTJ3SzZ1ZWozWEx0Wlh2LVB3ZTZqSnVRdjZQUzE3NnFzR0hzMkpGdXVaX3hOVW5WMU1MbkxXcEVrTnNSUTBTa3BrbVdDX0JYS3BoVnlBN1lTSWNNNFZTOTg4ZWJrTGxGN0JXaGI2RU9weWtpTmtoQW11OEs3Y1JxSS10WVAzSkdDTjJzTjIzalo1Rk91Qzl6JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTM0MTAzMTIiLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiNGZjMTEyZjlfMmE5Zl80ZWI5Xzg5YTFfYmQ3ODBkM2UzZGU2IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHhKOUxVd2lOdkZfbEFLaUtLUkdXQ0dvSXlBZ3V6RzVPOXhKMFZyOGhxZTZES2MwMm9OR0JNRHBRME4yaVVoZTF0eXhUQVBEU3lqcHJ1VTJvS2JJOWlvNm5saWlYXzJRQ2JzeUV5d2ExcHRldkJ3UkxjdmxwMGFWcWdwbFFVLVVlR0NVb0tzSkw1NUFyVzV2UVQtNEZueE5FOUhWT2FxZGZXVmQyQjBYRHBzNlFORWVCcURlSXNJVkV0WjdaUkdBSUgyZEtLSUUyd0s2dWVqM1hMdFpYdi1Qd2U2akp1UXY2UFMxNzZxc0dIczJKRnV1Wl94TlVuVjFNTG5MV3BFa05zUlEwU2twa21XQ19CWEtwaFZ5QTdZU0ljTTRWUzk4OGVia0xsRjdCV2hiNkVPcHlraU5raEFtdThLN2NScUktdFlQM0pHQ04yc04yM2paNUZPdUM5eiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=lIMneuBAnpCw%2fdoVDo3599XFSw8%3d&sessionId=ceeffce9-fc9e-8daa-d139-b7b68e7a4548:639865bd-91df-2933-60dd-557e43e82f8c&clientTag=html5:v1.7.5&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5L2FnZW5kYS1hd2FuaS8xMTAzNjMyL3BsYXllcj9saW5lYXJJZD0xMDAwMjQzODMmaXNMaXZlPXRydWU=
-#EXTINF:-1 group-title="Sooka" tvg-id="501" tvg-chno="501" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/501.png",Astro Awani
-https://linear01-playback.sooka.my/CH4/masterCH4.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
 #EXTINF:-1 tvg-id="701" group-title="sport"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Unifi-Sports_1.png/revision/latest?cb=20210712111848",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -44,14 +39,22 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_prim
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="sport" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1602/default_primary.mpd
-http://5gfksa.ltd:2052/991155/551199/41907
+http://51.81.208.129:35461/80203081502/656678/655
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=369ee7aba1e1504f85366b899d81ef10&key=299fbf0f774920858ff4fabf0afbe6b7
+#EXTINF:-1 tvg-id="AstroSupersport2" group-title="sport" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 (becup)
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="sport" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
-http://5gfksa.ltd:2052/991155/551199/41906
+http://51.79.82.208:16062/
+
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="sport" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD (becup)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a522db0e2c8b90c38b64187018648a10&key=cf66fd59fe28f45418628313e06d52da
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="sport" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
