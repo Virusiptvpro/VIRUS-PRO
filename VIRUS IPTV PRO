@@ -733,7 +733,7 @@ http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
 #http://139.99.96.163:2095/live/User38282/DNAkVhCwwu/109.ts
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/manifest.mpd
-https://aqfadtv.xyz/supersport4.m3u8
+http://51.81.208.129:35461/80203081502/656678/7984
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
