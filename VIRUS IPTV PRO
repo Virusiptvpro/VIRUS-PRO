@@ -3,6 +3,15 @@ VIRUS IPTV PRO GO
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
 refresh="3600"
 
+ISLAM TV
+
+#EXTINF:-1 tvg-id="QURAN TV" group-title="ISLAMIK" ch-number="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a17UMa1avg6SJ3a0mmuVGdyl-kTd-WOs8A&usqp=CAU",1 QURAN TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SUNNAH TV" group-title="ISLAMIK" ch-number="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHb0TyimVVDW_YJxj1LvEGAehNhdilw8cuQA&usqp=CAU",2 SUNNAH TV
+http://m.live.net.sa:1935/live/sunnah/chunklist_w444768572.m3u8
+
+
 MALAYSIA
 
 #EXTINF:-1 tvg-id="TV1" group-title="myFreeview" ch-number="101" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",101 TV1
