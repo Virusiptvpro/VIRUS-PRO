@@ -52,7 +52,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpXyQlGfDMkKfank0K0WZLOM=9CwE/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
-http://51.79.82.208:16010/
+#http://51.79.82.208:16010/
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/161.ts
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -61,7 +62,8 @@ http://51.79.82.208:16010/
 https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpfP5ytOkGHMjY6a0DM5GqEE=BooC/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (beckup)
-https://stream.zeehanzgadget.com/citra
+#https://stream.zeehanzgadget.com/citra
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/14.ts
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -124,8 +126,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
-
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Ntv7" ch-number="147" group-title="myFreeview" tvg-logo="https://didik.tv/images/logotv2.png",147 Ntv7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -151,6 +153,9 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 https://4fl0.short.gy/FzTv/sensasi.ts
 
 INDIA
+
+#EXTINF:-1 tvg-id="MAKKAL TV" group-title="Indian" ch-number="116" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmO7iiMQkF4jkOZccbrtCHHRWxJzif6n_og&usqp=CAU",204 MAKKAL TV
+http://139.99.96.163:2095/live/User48278/tBw10zkne9/20.ts
 
 #EXTINF:-1 tvg-id="ColorsHD" group-title="Indian" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
