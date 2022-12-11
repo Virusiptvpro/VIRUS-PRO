@@ -57,13 +57,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://aqfadtv.xyz/live/warna/index.mpd
+https://aqfadtv.xyz/live/warna/index.mpd
 #https://linears-playback.astro.com.my/vsg/41hKNkIkwhdKjBbVV-CTOGpXyQlGfDMkKfank0K0WZLOM=9CwE/dash-wv/jitp-linearwm/2402/default_ott.mpd?7
-http://139.99.96.163:2095/live/User48278/tBw10zkne9/161.ts
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
 #http://51.79.82.208:16010/
-http://139.99.96.163:2095/live/User48281/GdkNVq9ry0/161.ts
+http://iptv12k.com:35461/80203091402/213445/13628 
+http://51.79.82.208:16010
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -72,7 +72,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (beckup)
 #https://stream.zeehanzgadget.com/citra
-http://139.99.96.163:2095/live/User48281/GdkNVq9ry0/14.ts
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
