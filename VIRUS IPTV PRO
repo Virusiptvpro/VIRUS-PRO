@@ -5,19 +5,49 @@ refresh="3600"
 
 FIFA2022
 
-pe=clearkey
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-name="â—ˆ WorldCup Replay info á´´á´°" tvg-logo="https://iili.io/yBb1sf.md.pnghttps://iili.io/yBb1sf.md.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢",â—ˆ WorldCup Replay info á´´á´°
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/1052374
+
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-name="â—ˆ WorldCup Pool/Groups  á´´á´°" tvg-logo="https://iili.io/yBb1sf.md.pnghttps://iili.io/yBb1sf.md.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢",â—ˆ WorldCup Pool/Groups  á´´á´°
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/1052373
+
+#EXTINF:-1 tvg-id="pialadunia.id" tvg-logo="https://iili.io/yBb1sf.md.pnghttps://iili.io/yBb1sf.md.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Qatar TV
+https://cnda11.ahdafsoccer.com:443/UpFiles/2022/11/20/152/240653/720p.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium294/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-name="wc2022 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar   2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://webudi.openhd.lol/lb/premium295/index.m3u8|Referer=https://eplayer.click/premiumtv/poscitech.php?id=123
+
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar  3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-1/
 #https://dq4ixj4w2vjju.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
 
-#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title="âš½ FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar  4
+#EXTINF:-1 tvg-id="AstroSupersport2UHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", Astro World Cup Qatar  4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/sooka/fwc2022-2/
 #https://d2o8qbnewx81s3.cloudfront.net/CH1/masterCH1.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5XUmpZekEwWkRjdE5UY3lOaTAwWlRFM0xUbGxaR010WlRSbFpXTTJObVpoT1RreiIsIndtb3BpZCI6MzIsImV4cCI6MTY2OTczMjE4MCwiaWF0IjoxNjY5MTI3MzgwfQ.7k2sUvapEG3NIfa0K4VLGpFVB9rW7amUWhI0MjFc9q0
 
-#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" group-title="âš½ FIFA WORLD CUP 2022 QATARâ„¢" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",Astro World Cup Qatar(No Audio)
+#EXTINF:-1 tvg-id="AstroSupersportUHD" tvg-name="wc2022 1" group-title=" FIFA WORLD CUP 2022 QATARâ„¢" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Qatar2022.png",Astro World Cup Qatar(No Audio)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/1601
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+
+#EXTINF:1 tvg-id="TrueSports2.th" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png" group-title=" FIFA WORLD CUP 2022 QATARâ„¢", True Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="pialadunia.id" group-title=" FIFA WORLD CUP 2022 QATARâ„¢" ch-number="" tvg-logo="https://i.ibb.co/HzT1Vg6/Picsart-22-11-18-19-18-19-950.png", Tyc Sports 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 
 
 
