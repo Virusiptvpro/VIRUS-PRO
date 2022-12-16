@@ -121,6 +121,11 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
 #https://stream.zeehanzgadget.com/citra
 #https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
+#EXTINF:-1 tvg-id="SENSASI" group-title="Astro" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",123 ASTRO SENSASI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085/
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5085/default_primary.mpd
+
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2508
