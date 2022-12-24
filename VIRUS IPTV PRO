@@ -5,8 +5,7 @@ refresh="3600"
 
 AFF
 
-#EXTINF:-1 tvg-id="AstroArena2" group-title="AFF MITSUBISHI ELECTRIC 2022
-" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" group-title="AFF MITSUBISHI ELECTRIC 2022" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
