@@ -4,6 +4,18 @@ VIRUS IPTV PRO GO
 refresh="3600"
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://i.ibb.co/WWXMgf4/channel-101-modified.png",Soccer Channel
+https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; WOV64; rv:31.0) Gecko/20101201 Firefox/31.0
+#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmlFiapx-7cIlgKy1iyejt8OVm7_jxaDYmg&usqp=CAU",AFF MITSUBISHI ELECTRIC 2022
+https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+
+
 ISLAM TV
 
 #EXTINF:-1 tvg-id="QURAN TV" group-title="ISLAMIK" ch-number="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a17UMa1avg6SJ3a0mmuVGdyl-kTd-WOs8A&usqp=CAU",1 QURAN TV
@@ -917,15 +929,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="Unifi" ch-number="702" tvg-id="702" tvg-chno="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Unifi-Sports-2.png/revision/latest/scale-to-width-down/300?cb=20210712113109",unifi Sports 2 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://i.ibb.co/WWXMgf4/channel-101-modified.png",Soccer Channel
-https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmlFiapx-7cIlgKy1iyejt8OVm7_jxaDYmg&usqp=CAU",AFF MITSUBISHI ELECTRIC 2022
-https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
 
 ANIME
 
