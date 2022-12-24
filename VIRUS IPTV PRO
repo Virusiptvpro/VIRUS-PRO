@@ -922,7 +922,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://i.ibb.co/WWXMgf4/channel-101-modified.png",Soccer Channel
 https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.3; VOW64; rv:31.0) Gecko/zhzsonsznsdd Firefox/31.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=f5158194cc4044e699d0df01772f2212&key=072e611a383a2d1e3d4d8ea19e016a71
 #EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmlFiapx-7cIlgKy1iyejt8OVm7_jxaDYmg&usqp=CAU",AFF MITSUBISHI ELECTRIC 2022
