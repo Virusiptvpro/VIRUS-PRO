@@ -3,6 +3,14 @@ VIRUS IPTV PRO GO
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
 refresh="3600"
 
+AFF
+
+#EXTINF:-1 tvg-id="AstroArena2" group-title="AFF MITSUBISHI ELECTRIC 2022
+" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
+http://51.79.255.239:2095/live/User48281/GdkNVq9ry0/138.ts?token=TRBdUxFQGg4TU1VdAgpXW1xRBQlUVwFQB1xRAFlWWVwPVlQEV1kABQFETUZDR0RcWV8+UQFBDFJQAUpATRIEFmlbURBYGgkFE0pDEFleUxsCA1cPVFsDWlcOX04aEQgAFAgXA1EMDAETSkMBSEdTS1ZTDWcBBkAKAFxEWFYUDQgaEFpcPVxdWVAIBUYKEQYbFBAISxVBDA0WVQpOGgMIEERTQVdAAhoACV5SRhwRVVZNXBVKHEEMQS5gRE4aBBkQU1xGWw1WGg4TEhJGHBFfSmdABEsREVMCDlwUQAJDUUYaEFhTGmdbW18IBAdEWllXSxBbGlxTBkFPGwsNVggVC0RtRVsGGgIWAFZSVAQRSw==
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
