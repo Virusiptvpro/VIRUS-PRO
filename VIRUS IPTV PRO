@@ -17,9 +17,8 @@ https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=deb6c84db4dc4578bdaa61e965b3424c&key=b2e6fff24da67654af548fe61aa6bd5a
-#EXTINF:-1 tvg-ID="SoccerChannel.id" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_n-jAt6Y0OCeN0yj8Q80Emkr1RGXPjVa2fg&usqp=CAU",AFF MITSUBISHI ELECTRIC 2022
+#EXTINF:-1 tvg-ID="SoccerChannel2" group-title="AFF MITSUBISHI ELECTRIC 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_n-jAt6Y0OCeN0yj8Q80Emkr1RGXPjVa2fg&usqp=CAU",AFF MITSUBISHI ELECTRIC 2022
 https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
-
 ISLAM TV
 
 #EXTINF:-1 tvg-id="QURAN TV" group-title="ISLAMIK" ch-number="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-a17UMa1avg6SJ3a0mmuVGdyl-kTd-WOs8A&usqp=CAU",1 QURAN TV
