@@ -5,8 +5,8 @@ refresh="3600"
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
-
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+file:///storage/emulated/0/1DM/Videos/video_2023_02_23_19_55_59.mp4%20-%20Google%20Drive.m3u
 
 #EXTINF:-1 tvg-id="CH01" group-title="LIGA SUPER" ch-number="01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png",https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png",CH01
 file:///storage/emulated/0/1DM/Videos/video_2023_02_23_19_55_59.mp4%20-%20Google%20Drive.m3u
