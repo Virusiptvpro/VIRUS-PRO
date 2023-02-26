@@ -58,8 +58,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/6/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLTFBzSYXZ0tgEydAtltzRn4=1Y5l/dash-wv/jitp-linearwm/2402/default_primary.mpd
-
+#https://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLTFBzSYXZ0tgEydAtltzRn4=1Y5l/dash-wv/jitp-linearwm/2402/default_primary.mpd
+https://iplogger.com/cloud7_warna
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
 #http://51.79.82.208:16010/
@@ -71,6 +71,7 @@ http://51.79.82.208:16010
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700/
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2404/default_primary.mpd
 https://linears-playback.astro.com.my/vsg/41_Sf_ezUr0PwjgjZLW7fTLRwBx-vYE4fZYlARqru91Zs=R7ht/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://iplogger.com/cloud7_citra
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (beckup)
 #https://stream.zeehanzgadget.com/citra
@@ -79,7 +80,7 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 #EXTINF:-1 tvg-id="SENSASI" group-title="Astro" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",123 ASTRO SENSASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5085/
-https://tinyurl.com/yjzhzpv8
+https://iplogger.com/cloud7_sensasi
 
 #EXTINF:-1 tvg-id="GoShopBAARU" group-title="Astro" ch-number="111" tvg-logo="https://aqfadtv.astradamy.com/logos/GoShopBAARU.png",111 Go Shop BAARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -653,7 +654,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroCeria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2606
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+https://iplogger.com/cloud7_ceria
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" ch-number="612",622 Dreamworks
 #KODIPROP:inputstream.adaptive.license_type=clearkey
