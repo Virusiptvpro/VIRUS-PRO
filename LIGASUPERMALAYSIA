@@ -9,5 +9,5 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
 #EXTINF:-1 tvg-id="CH02" group-title="LIGA SUPER" ch-number="02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png",CH02 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
-http://bl.skyvod.eu.org:8080/live/AR2_SKY.m3u8
+#KODIPROP:inputstream.adaptive.license_key=http://time.akamai.com/?iso
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
