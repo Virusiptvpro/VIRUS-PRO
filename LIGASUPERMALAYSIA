@@ -8,4 +8,10 @@ refresh="3600"
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
 #EXTINF:-1 tvg-id="CH02" group-title="LIGA SUPER" ch-number="02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png",CH02 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://d1fk7kbmz4il3.cloudfront.net/masterCH1
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+
+
+d1fk7kbmz4il3.cloudfront.net
