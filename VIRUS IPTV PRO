@@ -37,11 +37,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live30.mpd
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="121.unifi" tvg-logo="https://speedtrademarket.com/live/logo/siarhd_v3.png" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144",SIAR
 https://web.hypp.tv:443/PLTV/88888888/224/3221227948/3221227948.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=nR3IWnuvgquP%2F8My8iyxx%2BoxnuQhQQA9yraVG9ZBgJG7lGYp3EaTqDAXfA4S%2BPVgQpTIHrOhXCgOoaP1Jv59qvHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124221801%3AUTC%2C1001767138%2C27.125.242.143%2C20221124221801%2Curn:Huawei:liveTV:XTV56919296%2C1001767138%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C3073678270%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOywrCMBRE_ybLkEfjY5GVIghSBatbuUluY2naaFIF_16rdTszZzhDAovbtXa1xDmzxihbFMViaRTjzjFVc4NWMiAZ72XUglgIoel9Gd2InY-rC2eUUSE45YJU490mgJ-W5aMzmLT8Y0dMz8aidrmmT8gUvE_oYWhiTw8BXqcUpgnBalLjs9lSSrVQc6kEGca0gtx-GnKFvIrdDRK6XfRfQNcQMpIb2BY8ltCh7h8h_Lh9ch-bN5RyWgv0AAAA&tenantId=6001
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="MALAYSIA" tvg-id="113.unifi" tvg-logo="https://speedtrademarket.com/live/logo/salamhd_v3.png" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144",SALAM HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
-
 
 ISLAM TV
 
@@ -50,25 +45,6 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SUNNAH TV" group-title="ISLAMIK" ch-number="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHb0TyimVVDW_YJxj1LvEGAehNhdilw8cuQA&usqp=CAU",2 SUNNAH TV
 http://m.live.net.sa:1935/live/sunnah/chunklist_w444768572.m3u8
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
-
-#EXTVLCOPT:http-user-agent=DmpPlayer/20.0.21.30
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="Malaysian Variety" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=ZTVmYTY0NGYtNDQ4Ny0zYmNhLThlYjEtNjU3OTQ5MDc3OTU1
-#EXTINF:-1 group-title="Unifi" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",Salam HD
-https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&amp;zoneoffset=0&amp;servicetype=1&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&amp;GuardEncType=2&amp;it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&amp;tenantId=6001
-
-
 
 MALAYSIA
 
@@ -111,17 +87,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 #https://tv.kpsvpn.com/astroblasis.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2402/
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/6/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRhP2E8pfZ-rCeIInfOL0JEM=s0kg/dash-wv/jitp-linearwm/2402/default_ott.mpd
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+https://iplogger.com/cloud7_warna|referer=https://iplogger.com/2VAkG5
 
-
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
+#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
 #http://51.79.82.208:16010/
-http://iptv12k.com:35461/80203091402/213445/13628 
+#http://iptv12k.com:35461/80203091402/213445/13628 
 http://51.79.82.208:16010
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (beckup)
@@ -132,7 +106,8 @@ https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRizkXBw7p7sfrKKJ
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #https://stream.zeehanzgadget.com/citra
-http://ac.skyvod.eu.org:8080/live/AEC_SKY.m3u8
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+https://iplogger.com/cloud7_citra
 
 #EXTINF:-1 tvg-id="SENSASI" group-title="Astro" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",123 ASTRO SENSASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -237,7 +212,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2309
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
+https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:-1 tvg-id="AstroVinmeenHD" ch-number="202" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",202 Astro Vinmeen HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -842,21 +818,38 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2602/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
+https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
+
+
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
-http://bl.skyvod.eu.org:8080/live/AR2_SKY.m3u8
+#http://bl.skyvod.eu.org:8080/live/AR2_SKY.m3u8
 
 #EXTINF:-1 tvg-id="AstroArenaBola" group-title="Sports" ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/487_144.png",803 Astro Arena Bola
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"eTnjNb+Mu9aIL59cnN6+GQ", "kid":"mWhVRUkdQLSTs6SyY8ckXg" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroArenaBola2" group-title="Sports" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",804 Astro Arena Bola 2
+https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
+
 #EXTINF:-1 tvg-id="AstroArenaBola2" group-title="Sports" ch-number="804" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",804 Astro Arena Bola 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
-http://bl.skyvod.eu.org:8080/live/BL2_SKY.m3u8
+#http://bl.skyvod.eu.org:8080/live/BL2_SKY.m3u8
 
 #EXTINF:-1 tvg-id="AstroArenaBola3" group-title="Sports" ch-number="805" tvg-logo="data:image/png;base64,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",805 Astro Arena Bola 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -864,44 +857,56 @@ http://bl.skyvod.eu.org:8080/live/BL2_SKY.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5101/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/601
-#https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-https://aqfadtv.xyz/live/supersport/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2104
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 
-https://aqfadtv.xyz/live/supersport2/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="sports" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 (becup)
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115616&extension=ts&play_token
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2701
-#http://51.79.82.208:16062/
-https://aqfadtv.xyz/live/supersport3/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD (becup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/
-http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
+#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115617&extension=ts&play_token
 
 
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="Sports" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2506
-https://aqfadtv.xyz/live/supersport4/index.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"+xL2YdZA5OvfOOMSMCJg6w", "kid":"vaf3S4QvTw6xQjldrdkfBw" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH2/masterCH2.mpd
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="Sports" ch-number="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png",815 Astro SuperSport 5 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5059
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-https://webdi.openhd.lol/ddy1/premium43/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1qbGlPREl3WW1ZdE5XVTRZeTAwTlRNNUxXSTFZall0WlRnNVkyRTBOamsyTVdRdyIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODI5MDA0OCwiaWF0IjoxNjc3Njg2MDQ4fQ._GddIp26qZZ6YYVoowoTnpO7WOMFwOQ1H1COqnAB5to"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x56Rb533occYBeOc2jDZOw", "kid":"n5n/otJ6TPugW4O5HbhG3w" } ], "type":"temporary" }
+https://d3j4fjrwclc3o8.cloudfront.net/CH3/masterCH3.mpd
+
 
 #EXTINF: -1 tvg-id="SPOTV" group-title="Sports" ch-number="816" tvg-logo="https://aqfadtv.astradamy.com/logos/SPOTV.png",816 SPOTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
