@@ -100,16 +100,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 https://iplogger.com/cloud7_warna|referer=https://iplogger.com/2VAkG5
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (bekup)
-#http://51.79.82.208:16010/
-#http://iptv12k.com:35461/80203091402/213445/13628 
-http://51.79.82.208:16010
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (beckup)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2700/
 #https://linearjitp-playback.astro.com.my/dash-wv/linear/2404/default_primary.mpd
-https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRizkXBw7p7sfrKKJt0zbmB8=Emqm/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+#https://linears-playback.astro.com.my/vsg/41IkYDZ7yy7hUzaWkOXevgRizkXBw7p7sfrKKJt0zbmB8=Emqm/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #https://stream.zeehanzgadget.com/citra
@@ -301,7 +297,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1005/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroXiaoTaiYang" ch-number="304" group-title="Chinese" tvg-logo="https://aqfadtv.astradamy.com/logos/XiaoTaiYang.png",304 Astro Xiao Tai Yang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/711
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2711/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBClassic" ch-number="305" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
