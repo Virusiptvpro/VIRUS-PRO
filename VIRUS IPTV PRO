@@ -1756,3 +1756,11 @@ https://vodejitp-asset-playback-b.astro.com.my/v1/default/dash-wv/vode/d79d49c6-
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2RkNWQ3MTEtOTkyMS00NDZkLThlNzUtZDE5NzZlMWM5YzRhXkEyXkFqcGdeQXVyMjA4OTI5NDQ@._V1_.jpg" group-title="VOD INDIA" tvg-id="" tvg-name="", DARBAR
 https://shui3-my.sharepoint.com/:v:/g/personal/barisan2022_shui3_onmicrosoft_com/EY8JGhmLBwJHoBzug8Wiy4wB99PFRhiQJrul05VbKKam8A?download=1
 
+2022
+
+#EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQACpWlIIni9cNRvo9vzVVLHwBTBLOEbdrWA&usqp=CAU" group-title="BAHARU" tvg-id="" tvg-name="", MECHAMATO MOVIE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+#EXTVLCOPT:http-user-agent=com.iptvlin k.net
+http://w.nasvpn.xyz:8080/movie/saya/saya/17223.mp4
+
