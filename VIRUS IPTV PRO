@@ -1759,8 +1759,6 @@ https://shui3-my.sharepoint.com/:v:/g/personal/barisan2022_shui3_onmicrosoft_com
 2022
 
 #EXTINF:-1 type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQACpWlIIni9cNRvo9vzVVLHwBTBLOEbdrWA&usqp=CAU" group-title="BAHARU" tvg-id="" tvg-name="", MECHAMATO MOVIE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=#EXTVLCOPT:http-user-agent=com.iptvlin k.net
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
 http://w.nasvpn.xyz:8080/movie/saya/saya/17223.mp4
 
