@@ -39,6 +39,16 @@ https://aqfadtv.xyz/live/unifitv/siar/index.mpd
 #EXTINF:-1 group-title="Unifitv" tvg-id="113.unifi" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144",SALAM HD (TIVIMATE)
 https://web.hypp.tv:443/PLTV/88888888/224/3221227558/3221227558.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHMO5mMHa9B%2BzYQOtwwhTPs9X1Uzxq6NAAqGASx47cKgqfHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124080121%3AUTC%2C1001767137%2C115.164.56.153%2C20221124080121%2Curn:Huawei:liveTV:iptv47777%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C88%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOXQuCMBiF_80uR5s25sWuiiCIFWTdxuv2usTpbLOgf5-WXZ6P53DGCAb3W1Wtpcmx4NbWeV5gNWkQmQCb1RIlCpLwoYPixID3Te90sDN2PW9ubEVXlHNGGSflPLfz4JamfnYVRpX9sTPGV2NQ2VTTFyQKzkV0MDahpycP70v0S4VguVxjQhRc5oJzIRkZZ7eE1E4JuUPahG6AiPYQ3BdQNfiEZADTgkMNHar-6f2PO0Y7vfkAzoOp1vQAAAA&tenantId=6001
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
+#EXTINF:-1 group-title="Unifitv" tvg-id="555.unifi" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_BOOMERANG.png",BOOMERANG (TIVIMATE)
+https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
+#EXTINF:-1 group-title="Unifitv" tvg-id="472.unifi" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//KIDS//KD_ANIMAX.png",ANIMAX (TIVIMATE)
+https://web.hypp.tv:443/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
@@ -450,7 +460,7 @@ https://av-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/HBOSignature2
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
 #EXTINF:-1 tvg-name="HBOSignatureHD" tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/hbosignature.png" group-title="Movies",HBO SIGNATURE HD
-https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+https://av-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/CinemaWorld
@@ -465,10 +475,10 @@ https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/visionplus/GalaxyPremium-HD
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/results.php?keyid=7bc29ff5f405dff971e3a326223fe26c&key=06849a953a38da997b31bacf433cc74a
 #KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
 #EXTINF:-1 tvg-id="GalaxyPremium.id" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/galaxypremium.png" group-title="Movies",GALAXY PREMIUM HD
-https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+https://av-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
 #EXTINF:-1 tvg-id="CHN" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/blueantentertaiment.png" group-title="Movies",ROCK ENTERTAINMENT HD
 #https://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist.m3u8
@@ -490,14 +500,14 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 
 #EXTINF:-1 tvg-id="StarMoviesHDIndia.in" tvg-logo="https://i.ibb.co/PFpZHbS/6-Rbm-Dfm-modified.png" group-title="Movies",Star Movies
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
+#http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 # http://teeveetv.one:2052/syntax/MKlaiuUcj2/998830
 # https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starmo
 # http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelectHD.in" tvg-logo="https://i.ibb.co/2jh4NGh/starmovirs-modified-1.png" group-title="Movies",Star Movies Select
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
+#http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
 # http://teeveetv.one:2052/syntax/MKlaiuUcj2/998858
 # https://dukun.masuk.id/57337005c17a518a3cee71d5170f05210698fd0b11a8f77733c08de39ab09ac67652ce68-78a50d92c806e206e634451643a7d8bf-1660653338-1660642539/hiburan/starselect
 
