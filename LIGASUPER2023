@@ -1,7 +1,7 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Degup.png" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" group-title="Unifitv",DEGUP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p 
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/ 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
