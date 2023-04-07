@@ -4,5 +4,18 @@
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/play/?na=ARENA%201
+#KODIPROP:inputstream.adaptive.license_key=https://linear03-playback.sooka.my/CH4/1680080795149item-07item_Segment-7502340738963
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+
+#EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://api-js.datadome.co/js/
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
+
+
+
+#EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cid=WMaWNxVlfzk9Tz3fj4wmb4Ym4WTqL6_SCH5mEYdjYtxC1mnFEgfv7YvJyaBfhHXMPgVFkS_ejx4kr9JEOaelHJU~DDFlSRvApHy41S2mcksvMSRUQ18iZPcpW0YS1T0
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
