@@ -1,11 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 type="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png'CH01
-https://rr4---sn-npoe7ney.googlevideo.com/videoplayback?expire=1677183553&ei=wVn3Y-7sCZOZn88Pxue-iA0&ip=103.123.239.117&id=3bab3b7c5c40bafd&itag=18&source=blogger&susc=bl&eaua=EBI4b3ub2Q8&mime=video/mp4&vprv=1&dur=132.864&lmt=1677154604429318&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAPmm-7s-hdeLOJyym2OMdH4VlKjMm_J5aY6zwcml5By1AiAX202unsN_qYWeR2LQT-dhtQNz9u-FnS2VscYB4zAvXQ%3D%3D&cpn=U3D5rLVURrih1gl8&c=WEB_EMBEDDED_PLAYER&cver=1.20230215.01.00&redirect_counter=1&cm2rm=sn-30ase7e&req_id=84f705690a4436e2&cms_redirect=yes&cmsv=e&mh=7E&mm=34&mn=sn-npoe7ney&ms=ltu&mt=1677154606&mv=m&mvi=4&pl=25&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJBhRbhMRRaIiw4dk_VqrqKcTZey4giXUt76ZBCreExFAiEAhhhTIINTahSQ24En4OT4IF4qoJKRdnWKOwGuG1k61FQ%3D
-
-#EXTINF:-1 type="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png'CH02
-https://rr4---sn-npoe7ney.googlevideo.com/videoplayback?expire=1677183553&ei=wVn3Y-7sCZOZn88Pxue-iA0&ip=103.123.239.117&id=3bab3b7c5c40bafd&itag=18&source=blogger&susc=bl&eaua=EBI4b3ub2Q8&mime=video/mp4&vprv=1&dur=132.864&lmt=1677154604429318&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAPmm-7s-hdeLOJyym2OMdH4VlKjMm_J5aY6zwcml5By1AiAX202unsN_qYWeR2LQT-dhtQNz9u-FnS2VscYB4zAvXQ%3D%3D&cpn=U3D5rLVURrih1gl8&c=WEB_EMBEDDED_PLAYER&cver=1.20230215.01.00&redirect_counter=1&cm2rm=sn-30ase7e&req_id=84f705690a4436e2&cms_redirect=yes&cmsv=e&mh=7E&mm=34&mn=sn-npoe7ney&ms=ltu&mt=1677154606&mv=m&mvi=4&pl=25&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJBhRbhMRRaIiw4dk_VqrqKcTZey4giXUt76ZBCreExFAiEAhhhTIINTahSQ24En4OT4IF4qoJKRdnWKOwGuG1k61FQ%3D
-
-#EXTINF:-1 type="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/Malaysia_Super_League_logo.png'CH03
-https://rr4---sn-npoe7ney.googlevideo.com/videoplayback?expire=1677183553&ei=wVn3Y-7sCZOZn88Pxue-iA0&ip=103.123.239.117&id=3bab3b7c5c40bafd&itag=18&source=blogger&susc=bl&eaua=EBI4b3ub2Q8&mime=video/mp4&vprv=1&dur=132.864&lmt=1677154604429318&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,eaua,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAPmm-7s-hdeLOJyym2OMdH4VlKjMm_J5aY6zwcml5By1AiAX202unsN_qYWeR2LQT-dhtQNz9u-FnS2VscYB4zAvXQ%3D%3D&cpn=U3D5rLVURrih1gl8&c=WEB_EMBEDDED_PLAYER&cver=1.20230215.01.00&redirect_counter=1&cm2rm=sn-30ase7e&req_id=84f705690a4436e2&cms_redirect=yes&cmsv=e&mh=7E&mm=34&mn=sn-npoe7ney&ms=ltu&mt=1677154606&mv=m&mvi=4&pl=25&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJBhRbhMRRaIiw4dk_VqrqKcTZey4giXUt76ZBCreExFAiEAhhhTIINTahSQ24En4OT4IF4qoJKRdnWKOwGuG1k61FQ%3D
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.chooser_resolution_secure_max=360p
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://ws.kapallayar.cc//image//Logo//MALAYSIA//New//M_Degup.png" group-logo="https://playtv.unifi.com.my:7041/EPG/WEBTV/assets/images/unifi_logo_white.png?=w272-h144" group-title="Unifitv",DEGUP
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
