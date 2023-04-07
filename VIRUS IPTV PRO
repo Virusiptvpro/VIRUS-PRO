@@ -859,7 +859,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroArena2.png",802 Astro Arena 2
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
-
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png",802 Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
