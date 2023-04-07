@@ -4,13 +4,13 @@
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://linear03-playback.sooka.my/CH4/1680080795149item-07item_Segment-7502340738963
+#KODIPROP:inputstream.adaptive.license_key=BZTQ23i57KhtBG0wGYDtHp5DGvZVNspDXc0jJKhYyuo5ZQKyXybB6A
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://api-js.datadome.co/js/
+#KODIPROP:inputstream.adaptive.license_key={"status":200,"cookie":"datadome=3z6BppY4JcdB1imouVJXh20WNk706vRl0ZO2fcEhhXpXb-DxSqNRSS0pg-bA~1WZCeR1zs0ozCk7xwtHX-3n65Pmp9PftpvQSmVIkl4oW3b1JGZigiJFALZ1zhsl6CsQ; Max-Age=31536000; Domain=.speedtrademarket.com; Path=/; Secure; SameSite=Lax"}
 https://linear03-playback.sooka.my/CH4/masterCH4.mpd
 
 
