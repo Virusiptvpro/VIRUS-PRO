@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/play/?na=ARENA%201
+https://linear03-playback.sooka.my/CH4/masterCH4.mpd
