@@ -852,7 +852,7 @@ SPORTS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpUYzVNMlUwWWpndFl6aGtNaTAwTjJRekxUbG1PRE10TlRNd09Ea3daV0kyWVRCaiIsIndtb3BpZCI6MzIsImV4cCI6MTY3ODg0OTMyMywiaWF0IjoxNjc4MjQ1MzIzfQ.T1Vc7j68v4UvoA3jcUhmGf5cUxlfkI4Ro4-XILJunLc"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTgyMDAwMiwiaWF0IjoxNjgxMjE2MDAyfQ.3lpnmM_A7N292wH0h5j-QKIYxEjlcTN4wsmqhTrkZD4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JK1H9zyM//xpYdR6pVG4gg", "kid":"G15RVjjeQkO2ukmEPQvnYw" } ], "type":"temporary" }
