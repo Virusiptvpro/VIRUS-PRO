@@ -133,9 +133,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://speedtrademarket.com/mytv/results.php?keyid=7c261ac9254a45e8b6739957c7f14abf&key=721e91d78af93ac89e121f5ed30eacaf
-#https://speedtrademarket.com/live/channel/warna.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MTgyMDAwMiwiaWF0IjoxNjgxMjE2MDAyfQ.3lpnmM_A7N292wH0h5j-QKIYxEjlcTN4wsmqhTrkZD4"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
+https://speedtrademarket.com/vip/warna.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,7 +149,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #https://stream.zeehanzgadget.com/citra
 #EXTVLCOPT:http-user-agent=com.iptvlin k.net
-http://w.nasvpn.xyz:8080/saya/saya/16841
+http://syok.tv:25461/live/ABC/234/26.ts
 
 #EXTINF:-1 tvg-id="SENSASI" group-title="Astro" ch-number="123" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astro_Sensasi-en.png",123 ASTRO SENSASI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
