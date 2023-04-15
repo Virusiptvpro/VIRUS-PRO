@@ -1,6 +1,6 @@
 VIRUS IPTV PRO 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
+#EXTM3U url-tvg="https://raw.githubusercontent.com/Virusiptvpro/VIRUS-PRO/main/Virus_epg"  
 refresh="3600"
 
 Unifi TV
