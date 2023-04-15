@@ -885,7 +885,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola3" group-title="Sports" ch-number="805" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/25778743_ico.png?ts=1681517184",805 Astro Arena Bola 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjA2MjE5OSwiaWF0IjoxNjgxNDU4MTk5fQ.QXc2Z-i7G5TTt0nv0FmPM0X1hOVYGoc7_ex5vLvFo38"}
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpXSTJNRGszTTJJdFpqQXlOQzAwTWpKbUxXRTNNREl0TTJWbFpHWTJNMlJrWldOaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjA2MjE5OSwiaWF0IjoxNjgxNDU4MTk5fQ.QXc2Z-i7G5TTt0nv0FmPM0X1hOVYGoc7_ex5vLvFo38"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key= {"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
