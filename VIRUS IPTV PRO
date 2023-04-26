@@ -870,9 +870,13 @@ https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 
 #EXTINF:-1 tvg-id="AstroArenaBola" group-title="Sports" ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",803 Astro Arena Bola
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5098
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5098/default.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HSmtNelZrTldZdE5XRmlOUzAwWVdVMExUZzRNMlF0WWpVMk5EQTJZemRtWkdKaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MzExMzIwMCwiaWF0IjoxNjgyNTA5MjAwfQ.8iiHpEWJeHv3ywBd93KZTAysimkx2i762qz6fWdkhCI"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= {"7481d3e3738c46768f138e208fee9076": "e1d428c7f1ca82339a6cfa1d0757428e"}
+https://d1fk7kbmz4il3.cloudfront.net/CH1/masterCH1.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1HSmtNelZrTldZdE5XRmlOUzAwWVdVMExUZzRNMlF0WWpVMk5EQTJZemRtWkdKaiIsIndtb3BpZCI6MzIsImV4cCI6MTY4MzExMzIwMCwiaWF0IjoxNjgyNTA5MjAwfQ.8iiHpEWJeHv3ywBd93KZTAysimkx2i762qz6fWdkhCI"}
