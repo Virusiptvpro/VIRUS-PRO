@@ -746,7 +746,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 #EXTINF:-1 tvg-id="TA-DAA!" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5024
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",615 Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -771,7 +771,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5067/default_ott.mpd
 #EXTINF:-1 tvg-id="Boomerang" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/430_144.png" ch-number="619",619 Boomerang HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2408
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2408/default_ott.mpd
 
 ENTERTAINMENT 
 
