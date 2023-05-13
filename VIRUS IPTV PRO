@@ -911,8 +911,7 @@ https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key= {"8f1da399325247eca6acdd7bafb95fa2": "41f234fb88590af3b0d224111a61bf71"}
-https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd";
-
+https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="sports" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
