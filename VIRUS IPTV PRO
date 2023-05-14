@@ -115,7 +115,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqVXlaR05rWVRBdE5XRTJOaTAwTlRGbExUazJOREF0Tm1ObU1HWTVNekk1TXpSayIsIndtb3BpZCI6MzIsImV4cCI6MTY4MjQxMDMyNCwiaWF0IjoxNjgxODA2MzI0fQ.eYVwo4SgXFtHj5jmZGYwY4qKFBHx4lPCEz40NwH8TJI"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495":"f723fd2686d9ce8f76a83fac34dff9e4"}
+#KODIPROP:inputstream.adaptive.license_key={"37fb99ca61a94c889fdc758bb2a67495": "f723fd2686d9ce8f76a83fac34dff9e4"}
 https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 
