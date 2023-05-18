@@ -870,7 +870,7 @@ SPORTS
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZ3dNemt3T0dFdE56RmlNUzAwTW1KbExUbGxPREV0WXpjeFpXUm1NR0k1WmpJMyIsIndtb3BpZCI6MzIsImV4cCI6MTY4NDgxODg5NiwiaWF0IjoxNjg0MjE0ODk2fQ.m7KyUNAXcDfgvTqtv7dDBVsh4C9xrgZal0ZX8a2l8c8"}
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmtNRFk1TVRZdFl6UmxaQzAwTm1NMUxXRmxaV1l0TlRFNVlUUXhZV0V5WkdVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NDU2OTIyMCwiaWF0IjoxNjgzOTY1MjIwfQ.KKH9dfTzsPEHuucY8ABF-pl601Z-YnFkSBdyGS8-alk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1b5e515638de4243b6ba49843d0be763": "24ad47f73c8cfffc6961d47aa551b882"}
@@ -878,8 +878,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
 https://dcqkiaqc3sngm.cloudfront.net/CH1/masterCH1.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola" group-title="Sports" ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",803 Astro Arena Bola
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpqZ3dNemt3T0dFdE56RmlNUzAwTW1KbExUbGxPREV0WXpjeFpXUm1NR0k1WmpJMyIsIndtb3BpZCI6MzIsImV4cCI6MTY4NDgxODg5NiwiaWF0IjoxNjg0MjE0ODk2fQ.m7KyUNAXcDfgvTqtv7dDBVsh4C9xrgZal0ZX8a2l8c8"}
+#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik9HWmtNRFk1TVRZdFl6UmxaQzAwTm1NMUxXRmxaV1l0TlRFNVlUUXhZV0V5WkdVNSIsIndtb3BpZCI6MzIsImV4cCI6MTY4NDU2OTIyMCwiaWF0IjoxNjgzOTY1MjIwfQ.KKH9dfTzsPEHuucY8ABF-pl601Z-YnFkSBdyGS8-alk"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key= {"7481d3e3738c46768f138e208fee9076": "e1d428c7f1ca82339a6cfa1d0757428e"}
