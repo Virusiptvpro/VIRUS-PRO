@@ -124,7 +124,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-http://speedtrademarket.com/live1/irinaspicy/ria
+http://speedtrademarket.com/live/irinaspicy/c/ria
 
 #EXTINF:-1 group-title="Astro Becup" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
 #http://syok.tv:25461/live/ABC/234/18.ts
