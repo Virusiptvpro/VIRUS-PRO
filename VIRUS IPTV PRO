@@ -123,7 +123,6 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-http://iptv12k.com:35461/live/649010610007/887543/735.ts
 
 #EXTINF:-1 group-title="Astro Becup" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria
 #http://syok.tv:25461/live/ABC/234/18.ts
