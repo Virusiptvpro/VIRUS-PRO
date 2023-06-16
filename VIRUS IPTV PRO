@@ -123,8 +123,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria 
 #http://141.95.55.32:25461/live/SK085112/67834/18.ts
-http://parkpay.live:8080/live/Whts1414/gkCjBHNgAP/236342.m3u8
-
+http://dmtn.tv:8080/live/steveny5997/54332611/420464.m3u8
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png",104 Astro Ria A
 http://iptv12k.com:35461/live/649010610007/123321/735.ts
