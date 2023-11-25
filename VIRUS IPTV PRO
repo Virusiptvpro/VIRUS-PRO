@@ -143,7 +143,7 @@ https://linears-playback.astro.com.my/vsg/41n12pdkxBBxKrI60H-qXpioCSK2B2l9oCBVTr
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f7beeac200af40d5886dfe98d72fcfc8": "e863f7149e52f7526bf744034e27ce8d"}
+#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
 https://linears-playback.astro.com.my/vsg/41YaAG0OfnJYVO1fSPj922sSKzPpmgzyr6v8sCzKrQifA=G-3T/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="PREMIER" group-title="Astro" ch-number="123" tvg-logo="https://i.ibb.co/Q82t80F/astropremier.png",123 ASTRO PREMIER
