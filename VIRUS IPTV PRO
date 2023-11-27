@@ -118,7 +118,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fKSxTDn_Syvl97gzCdVxe-0=0vfQ/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fIv_VTNR_YIzcVekKWTYlyQ=eB5b/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -139,14 +139,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
-https://linears-playback.astro.com.my/vsg/41n12pdkxBBxKrI60H-qXpioCSK2B2l9oCBVTrelQQDBI=XlHz/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41n12pdkxBBxKrI60H-qXpipWA5YM6w-7x1Vr3HWCkOs4=iUO9/dash-wv/jitp-dashisowm/2402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-https://linears-playback.astro.com.my/vsg/41YaAG0OfnJYVO1fSPj922sSKzPpmgzyr6v8sCzKrQifA=G-3T/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41YaAG0OfnJYVO1fSPj922sZil2XfuBWCE2TArEK1291U=pOaM/dash-wv/jitp-dashisowm/2700/default_ott.mpd
 
 #EXTINF:-1 tvg-id="PREMIER" group-title="Astro" ch-number="123" tvg-logo="https://i.ibb.co/Q82t80F/astropremier.png",123 ASTRO PREMIER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -818,6 +818,14 @@ KIDS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b6e60ca0d28e8f97395f07b4e2e53a10": "0f0ea6c3543c29d7f513eb886eb74f88"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
+
+#EXTINF:-1 tvg-id="Astro ceria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b6e60ca0d28e8f97395f07b4e2e53a10": "0f0ea6c3543c29d7f513eb886eb74f88"}
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
+
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" ch-number="612",622 Dreamworks
 #KODIPROP:inputstreamaddon=inputstream.adaptive
