@@ -817,13 +817,6 @@ KIDS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b6e60ca0d28e8f97395f07b4e2e53a10": "0f0ea6c3543c29d7f513eb886eb74f88"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default.mpd
-
-#EXTINF:-1 tvg-id="Astro ceria" group-title="Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230" ch-number="611",611 Astro Ceria 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b6e60ca0d28e8f97395f07b4e2e53a10": "0f0ea6c3543c29d7f513eb886eb74f88"}
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 
@@ -950,7 +943,7 @@ SPORTS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 ##KODIPROP:inputstream.adaptive.license_key={"efda647dad723563b625be8c05ee6110": "6776985938b332164b97b81fe566a34a"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_primary.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
