@@ -117,7 +117,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fMNeXdvVH_gy-RSWh2Qha2A=AwsA/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fMNeXdvVH_gy-RSWh2Qha2A=AwsA/dash-wv/jitp-linearwm/1004/defau
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstreamaddon=inputstream.adaptive
