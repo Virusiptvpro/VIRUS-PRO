@@ -1513,3 +1513,11 @@ https://azure55.com/Azure/Movies/April%2023/1004/10.mp4
 https://azure55.com/Azure/Movies/April%2023/0204/05.mp4
 
 
+Gemencheh Boys
+
+#EXTINF:-1 type="movie" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKGPO_IVP_LAND_917x516_2023128_14540.jpg" group-title="VOD 2023" tvg-id="" tvg-name="",  Gemencheh Boys
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"b495e858f006b2b19bcd3afc41f1a610": "37bd595f477a87700e576ec0d219668c"}
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-4b11-571a-8e4d-23fb37be426f/default_primary.mpd
