@@ -126,14 +126,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3f726fd5cbbf5944437a4dbfab431b10": "376b009796e4ad50ea8f68d796676692"}
-https://linears-playback.astro.com.my/vsg/41dKS1PonH0R7zcrnNWUf7fA8GbGArKt_Efm4DivCp1Fk=9iH6/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/415Yi7idyLCx5VbSRm-1_eB4BJuIyaZwXjbNSrnQvTVqI=ny5a/dash-wv/jitp-linearwm/1004/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b65326aede3edbe81e6fb40317d5310": "8412f444ffbe350cf2ece051f9152e90"}
-https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41LfSXPqMpKUTq_TT0-eOkBJlSrW5aZvbuP-yttYJPYIE=7oQZ/dash-wv/jitp-linearwm/1000/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -147,14 +147,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_primary.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"aa2c653f0c05567ae283c4a3271a9810": "0a80e20c568e88e53c7087c1c6493318"}
-https://linears-playback.astro.com.my/vsg/41n12pdkxBBxKrI60H-qXpiobawz9wGT0BVKFWC4AyNOw=mX0K/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/415Q61nmAr2NETUtZtdar98fGLtxQNqZNmrY9KSCdC_7k=GYvh/dash-wv/jitp-linearwm/2402/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-https://linears-playback.astro.com.my/vsg/41YaAG0OfnJYVO1fSPj922sUKeilxPHhhaNPDKKau0HyY=PN9b/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/418TgjfrpY42fhWiEen_p7k0pSo1EqfVNdDs7NelebwuM=NqVC/dash-wv/jitp-linearwm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-id="PREMIER" group-title="Astro" ch-number="123" tvg-logo="https://i.ibb.co/Q82t80F/astropremier.png",123 ASTRO PREMIER
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -204,7 +204,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"41a42fb5af457501c11bb9b158d5a110": "57a8d6f9e3832887db18ea6071118736"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 
 #EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -221,14 +221,14 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c3e956b38ae993be1494c7cfa17b1110": "55ccaee886b340dd901f4bf8dd9d3a6a"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f84fbe826d15755ef91ebcab67c57d10": "6a136b65d2d45699cb1e98506dfa1bee"}
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6bhqSuMTkGVuc4nw3jy_86NZKSJBXH3maXNmuqEPX3pg30s4APk27wo&usqp=CAU",123 Awesome TV
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
@@ -250,7 +250,7 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live06.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a9c619074ed38c20e25ad36c3c57c10c": "056e1e49573d2caee5cb4fe78f8c4f3d"}
+#KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live08.mpd
 
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="myFreeview" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",149 TV9
@@ -258,7 +258,7 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live08.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"27828727f0a3a0b4fbc668378ccf8c10": "958e9cb7389e20948de5a542d2729ecf"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/705/manifest.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/705/manifest.mpd
 
 
 INDIA
