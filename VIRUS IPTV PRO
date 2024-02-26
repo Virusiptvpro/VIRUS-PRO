@@ -1518,3 +1518,15 @@ https://azure55.com/Azure/Movies/April%2023/0204/05.mp4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b495e858f006b2b19bcd3afc41f1a610": "37bd595f477a87700e576ec0d219668c"}
 https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-4b11-571a-8e4d-23fb37be426f/default_primary.mpd
+
+#EXTINF:-1 type="movie" tvg-logo="https://marginfull.github.io/logo/mechjapan.jpg#11391" group-title="VOD 2024" tvg-id="" tvg-name="",  MECHAMATO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f6969948580d78774899bdc986594e10": "07ff68a646e5845f0af144b96649875d"}
+https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/b993ed38-e1f6-5a2d-98ec-9d5aed2b8da9/default.mpd
+
+
+
+
+
+
