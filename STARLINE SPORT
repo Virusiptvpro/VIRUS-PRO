@@ -8,14 +8,14 @@ refresh="3600"
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"efda647dad723563b625be8c05ee6110": "6776985938b332164b97b81fe566a34a"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"ead0335d60401225727a6d531e9c2710": "1ee3b252227c5c2ec9378c833d2e14ff"}
 #EXTINF:-1 tvg-id="AstroArena2" group-title="Sports" ch-number="802" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/25778726_ico.png?ts=1681516910",802 Astro Arena 2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5057/default.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola" group-title="Sports" ch-number="803" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",803 Astro Arena Bola
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik1tWXdNbUV4TW1JdE1qTTBOaTAwWmpoakxUazNNVEl0TlRFMllqSmlZVFF4TlRndyIsIndtb3BpZCI6MzIsImV4cCI6MTcxNTYzODM2NiwiaWF0IjoxNzE1MDM0MzY2fQ.Lgud-s_4KpvuNOin76s_HxZ4yJGyqloPY0FRRKTVE6c"}
@@ -38,7 +38,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key= {"ca4f5ff4e4694d54bdfdc9bd34384290": "1100fe297146f7d024b59944f09e6d1a"}
-#https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
+https://d1fk7kbmz4il3.cloudfront.net/CH3/masterCH3.mpd
 
 
 #EXTINF:-1 tvg-id="AstroArenaBola4" group-title="Sports" ch-number="808" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",808 Astro Arena Bola 4
