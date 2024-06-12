@@ -201,7 +201,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/1113
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 
 #EXTINF:-1 tvg-id="GoShopRUUMA" ch-number="118" group-title="Shopping" tvg-logo="https://user-images.githubusercontent.com/85995579/128457984-94be67a9-e944-4fcd-a083-7c01d5a922b7.png",118 Go Shop RUUMA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,13 +216,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1113/default.mpd
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="myFreeview" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",122 TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5021
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/211
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="myFreeview" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI6bhqSuMTkGVuc4nw3jy_86NZKSJBXH3maXNmuqEPX3pg30s4APk27wo&usqp=CAU",123 Awesome TV
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 
 #EXTINF:-1 tvg-id="OKEY" ch-number="146" group-title="myFreeview" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",146 OKEY
@@ -267,7 +267,7 @@ INDIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2611
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2611/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default.mpd
 
 #EXTINF:-1 tvg-id="AstroVaanavil" ch-number="201" group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/1590966809313.png/revision/latest?cb=20200531231529",201 Astro Vaanavil
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -287,20 +287,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2309/default_primary.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5073
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
 
 #EXTINF:-1 tvg-id="SunTV" ch-number="211" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",211 Sun TV HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2310
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2310/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 
 #EXTINF:-1 tvg-id="SunMusic" ch-number="212" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/417_144.png",212 Sun Music HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5011
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 
 #EXTINF:-1 tvg-id="ChuttiTV" ch-number="213" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png",213 Chutti TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -313,25 +313,25 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5011/default_ott.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/915
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/915/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default.mpd
 
 #EXTINF:-1 tvg-id="StarVijay" ch-number="221" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/357_144.png",221 Star Vijay HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2707
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2707/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2707/default.mpd
 
 #EXTINF:-1 tvg-id="ColorsTamilHD" ch-number="222" group-title="Indian" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160723588691kg.png",222 Colors Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2101
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2101/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default.mpd
 
 #EXTINF:-1 tvg-id="ZeeTamilHD" ch-number="223" group-title="Indian" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/297_144.png",223 Zee Tamil HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2311
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2311/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2311/default.mpd
 
 #EXTINF:-1 tvg-id="BoxOfficeThangathirai" ch-number="241" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png" group-title="Indian",241 ABO Thangathirai HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
