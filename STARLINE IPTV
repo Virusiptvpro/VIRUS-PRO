@@ -372,8 +372,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 #EXTINF:-1 tvg-id="TVBClassic" ch-number="305" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/425_144.png",305 TVB Classic HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"071448690a0ec9b27eb2c1a7d5e03010": "933ae273b166baa8fb203eef1a7adbdf"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5016
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroAEC" ch-number="306" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128458263-2fdbda45-1e3a-4480-9933-04e301790472.png",306 Astro AEC
@@ -386,8 +386,8 @@ https://d1yws6emo43ny.cloudfront.net/CH1/masterCH1.mpd
 #EXTINF:-1 tvg-id="AstroShuangXing" ch-number="307" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Astro_Shuang_Xing_%282015%29.png/revision/latest?cb=20190106060728",307 Astro Shuang Xing
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"33566705d63f56f1d31c45f69568ed10": "d13bcf0ca6e62d71b6c4dd70d5ffeab2"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2403
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD" ch-number="308" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/308_300.png/revision/latest?cb=20200122111044",308 Astro Quan Jia HD
@@ -400,106 +400,106 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2403/default_ott.mpd
 #EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" ch-number="CelestialMovies" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png" group-title="Chinese",309 Celestial Movies HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c5c1ba26907291afec11a9a78d513410": "361197805d0149c29801946cf2dde67c"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/506
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TVBJade" ch-number="310" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/128817892-b603cb72-c58e-4863-9c6a-51d5625a7814.png",310 TVB Jade HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fe1219019a9f36cdef347088e592ca10": "cb9e1a122ed1c6445f7d3fd2162358f1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2600
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAODHD" ch-number="310" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a0c1f00f14777b3daf4a912c4310f110": "e1db5e07a2bfe0fbf94ce56b5e139f48"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/700
+https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAODHD" ch-number="311" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"691916164be2b1ae6c852f1990d1fe10": "38a68c749898114cf0629d77e246a888"}
-https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/212
+https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default.mpd
 
 #EXTINF:-1 tvg-id="CTIAsia" ch-number="316" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/424_144.png",316 CTI Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d626598c2ab452537509dcb8a86db910": "f5a9cadea2372a52c2b91f9c261fe0a4"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5017
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5017/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" group-title="Chinese" tvg-logo="https://i.postimg.cc/YSLDWW8q/TVBEntertainment-News.png",317 TVB Entertainment News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"fa629c3640ce533c755509f67f75e610": "af710a06fd67975b99db4a47a757b84b"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5015
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5015/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/383_144.png",319 TVB Xing He
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e36e0cbdef0677b48dba5c63e8caaf10": "ecfb454b2f3e238c5b5dc196e4f91fb8"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/401
 https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
 
 #EXTINF:-1 tvg-id="TVBSAsia" ch-number="320" group-title="Chinese" tvg-logo="https://aqfadtv.astradamy.com/logos/TVBSAsia.png",320 TVBS Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"e76a89a1e23f8f7b828f4dbdc2d09a10": "346f0f60cbd7591e1ae72ca589157bb1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/402
 https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
 
 #EXTINF:-1 tvg-id="CCM" ch-number="321" group-title="Chinese" tvg-logo="https://aqfadtv.astradamy.com/logos/CCMWhite.png",321 CCM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a642dd4bf3ea782e19202adefb604b10": "3f59355e15eed1bb219ea1687d55cfbb"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/100
 https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
 
 #EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" group-title="Chinese" tvg-logo="https://i.postimg.cc/MHNpH3St/Phoenix-Chinese-Channel.png",325 Phoenix Chinese Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"517c308ef6419b1767e9ae710c897710": "fd6be1cea9fa23c98f20f1b2abcae276"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/400
 https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
 
 #EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326" group-title="Chinese" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/43_144.png",326 Phoenix Info News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9729558a9bff8d94774bfa2f019a1310": "8b9eb7ab7196a425d9ab618a5c9f99d9"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5009
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5009/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Astro_Hua_Hee_Dai_%282015%29.png/revision/latest/scale-to-width-down/250?cb=20200914130021",333 Astro Hua Hee Dai
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"60507ef0dc9c813d5f8c7b2229412f10": "c8a0f7e69bb31dfd475da26fc6c6003b"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2308
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default.mpd
 
 #EXTINF:-1 tvg-id="CCTV4" ch-number="335" group-title="Chinese" tvg-logo="https://user-images.githubusercontent.com/85995579/130944092-ce1ac88b-08ed-4a79-b8c1-4e3b0b6af688.png",335 CCTV4 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"db1a338f71d40186f5997cb085bb3f10": "8425690c4844fbb01b5eae706bc2f7c6"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/403
 https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAOD352" ch-number="352" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 352 Astro AOD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a0c1f00f14777b3daf4a912c4310f110": "e1db5e07a2bfe0fbf94ce56b5e139f48"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/700
 https://linearjitp-playback.astro.com.my/dash-wv/linear/700/default.mpd
 
 #EXTINF:-1 tvg-id="AstroAOD354" ch-number="354" group-title="Chinese" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Astro_AOD.jpg/revision/latest?cb=20191122014109", 354 Astro AOD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"691916164be2b1ae6c852f1990d1fe10": "38a68c749898114cf0629d77e246a888"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/212
 https://linearjitp-playback.astro.com.my/dash-wv/linear/212/default.mpd
 
 MOVIES 
@@ -507,58 +507,58 @@ MOVIES
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ff1febd7018d0dd711601e795e0d6210": "38fbfb3a56e40ff92c9df8acbcba9ef6"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2305
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 
 #EXTINF:-1 tvg-id="BOO" ch-number="404" group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgPGBeq1q-awFFFUhkgLt6FK3VdI3IlMwtNUD4uuPHpCyEPnzUnKxtxDb3cuygpWjq8abL2cDLKdgz6CXJOnwFFCeGWwDsRTTsK2MvyxYmz9ueCxahxOdYdUjFgjWrU9H44i2Azrj7khv8X5aDqNSBtaZhOrHjCaNaKsXltVjcFbGiTHXwkVvu-sFw/s1600/boo.png",404 BOO HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ea4d51ade01bbf3946e0de973051ba10": "f3266bec607f25879f48640f30f1c888"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2407/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2407
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default.mpd
 
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a098896d2b11c5f3906a993c3ba5c610": "f3f842c54cc96cbbd0bcb96a4cb8a813"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2304
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default.mpd
 
 #EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",412 Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"efdb2a8d39151cc39f4b51d762cf9c10": "13cc535ad4a73201147863cac386cdd3"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/603
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ShowcaseMovies.png",413 Showcase Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5054
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
 #EXTINF:-1 tvg-id="HBOFamily" ch-number="414" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",414 HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"2b9ff7cc1a3dc9fef47cc5773472d510": "7e37588e893ab9252e505bd6dda35beb"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5053
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default.mpd
 
 #EXTINF:-1 tvg-id="HBOHits" ch-number="415" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",415 HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5d600eb70944d681c26c1f48fbe61f10": "796139ba05a2ab425f978c7fd98b4372"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/5055
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
 
 #EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Movies" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190723/20190723084311221wnu.png",416 tvN Movies HD 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8e269c8aa32ad77eb83068312343d610": "d12ccebafbba2a535d88a3087f884252"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/dash-ck/linear/2406
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 
 ....................................................
 
