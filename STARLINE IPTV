@@ -116,7 +116,7 @@ https://linear08-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3afe30ee4ea24a67fe5a2ef06e83db0b": "27a2f71d87bf5eb105af096fb6605d97"}
-https://unifi-live03.secureswiftcontent.com/UnifiHD/live03.mpd
+https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-name="TV6" group-title="myFreeview" tvg-logo="https://i.ibb.co/LPVMhTq/tv6.png",113 TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
