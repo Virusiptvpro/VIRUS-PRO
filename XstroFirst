@@ -316,7 +316,7 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e3ea91fd-e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key={d4688e11f190416b0457bf26df631110:af9c6a136970ae531b9fc19bc318ffc8}
 #EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="AstroFirst" group-logo="" tvg-logo="https://perfecttv.net/first/ahlong2024.jpg", 962-Baik Punya Ahlong 2024
-http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/550afe51-41b2-5553-b4f6-1167bc3343d3/default_primary.mpd
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/550afe51-41b2-5553-b4f6-1167bc3343d3/default_primary.mpd
 
 
 
