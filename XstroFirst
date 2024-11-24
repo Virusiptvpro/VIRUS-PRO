@@ -334,40 +334,40 @@ http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/9cd02
 http://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/85501dcc-4012-5a6e-9148-fe88cb7ae190/default_primary.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="953-Ipar Adalah Maut (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lebILB4XqI60dUkJWYYsnaTm24D.jpg" group-title="VOD MALAY",953-Ipar Adalah Maut (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1562.m3u8 
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1562.mp4
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="952-Telekinesis (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KEjjeJ8Ix4WRPPdksmxzqGEplU.jpg" group-title="VOD MALAY",952-Telekinesis (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1563.m3u8 
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1563.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="951-Kuman Thong (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zgj6Uh6l8WA7nvXUARrCJ6Vmgcr.jpg" group-title="VOD MALAY",951-Kuman Thong (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1564.m3u8
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1564.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Rombongan Cik Kiah ke AJL (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmkgJWcqePytq2Nx49qjko4OM1l.jpg" group-title="VOD MALAY",Rombongan Cik Kiah ke AJL (2023) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1061.m3u8
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1061.mp4
 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1062
 #EXTINF:-1 tvg-id="" tvg-name="954-Memoir Seorang Guru (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvET11r3QLJ9UJAvWJM2PJBBWX9.jpg" group-title="VOD MALAY",Memoir Seorang Guru (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1062.ts
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1062.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="955-Para Betina Pengikut Iblis : Part 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="VOD MALAY",Para Betina Pengikut Iblis : Part 2 (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1064.m3u8
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1064.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Para Betina Pengikut Iblis (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1gn6o7gtXSNEH1EqGFvdgtcVFt8.jpg" group-title="VOD MALAY",Para Betina Pengikut Iblis (2023) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1065.m3u8
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1065.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="956-Abnormal: Buas (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wU038xWl3m2mmrmAIaSrkWZj0ro.jpg" group-title=" VOD MALAY",956-Abnormal: Buas (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1067.m3u8 
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1067.mp4 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="957-Siapa Buka Lampu (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5PnMplyKx7UcyCeuk8AHRLnlFWX.jpg" group-title="VOD MALAY",957-Siapa Buka Lampu (2024) 
-http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1068.m3u8
+http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1068.mp4
 
 
 
