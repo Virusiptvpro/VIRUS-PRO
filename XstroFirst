@@ -2,7 +2,7 @@
 #================first============================= 
 
 
-#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="AstroFirst" group-logo="" tvg-logo="https://perfecttv.net/first/sting2024.jpg", 966-Sting 2024 
+#EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="AstroFirst" group-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Astro_First_2012_logo.svg/revision/latest/scale-to-width-down/300?cb=20200919071113" tvg-logo="https://perfecttv.net/first/sting2024.jpg", 966-Sting 2024 
 #KODIPROP:inputstream=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
