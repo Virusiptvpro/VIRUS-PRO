@@ -1325,8 +1325,692 @@ http://perfecttv.net:8080/movie/Perfecttv/Perfecttv/1612.mp4
 
 
 
+AOTG VOD Kids Playlist
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c8e37688c640e083858fde1575bf10:aa74f252624e415dc682e81915c34472
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMKVH_p_IVP_PORT_390x585_77080_20241119_83525.jpg" group-title="AOTG-KIDS", Adventure Time: Come Along with Me
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/496e5116-147f-567f-88ee-4b2496ffdcfd/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8d2567422cd6d7b17ea49e878492d10:b261cde2d38160105329de20d03297da
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_GNOFQ_IVP_LAND_171x96_6BD1_2024313_154622.jpg" group-title="AOTG-KIDS", Aku Mahu SUPERBIBIK
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/602506f3-215a-5e91-b51f-0e8b7623028f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf4d45a4a71f3b8a88a1a7453f944610:0e4cff3291457f77a904565975e153ae
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOLDY_IVP_LAND_672x378_7EF32_2024111_94336.jpg" group-title="AOTG-KIDS", Around the World in 80 Days
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/735224b6-0e05-5b7f-b033-c22a2f13df4c/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=98647feb822297bc1293b349f6743110:af6b75d7c77cad3f58f792b129971ab2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOLDZ_IVP_LAND_171x96_7EF34_2024114_125038.jpg" group-title="AOTG-KIDS", Astro Boy
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/54922bb0-8bbd-5e1b-ae29-2956d9c73eba/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74c7d288a343cc6679e002dc7818f310:2abc3a60697d822d7d49eb9902497a0d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOGJH_IVP_LAND_288x162_7EF38_2024111_103539.jpg" group-title="AOTG-KIDS", Avengers Confidential: Black Widow & Punisher
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/252e087a-9ee0-5e9c-bff7-3bd540376e7b/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e122a0bdd38f2472d6914b8a055de810:15c7e5cb4ae6689680c536e0d3627da3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNXOV_IVP_LAND_288x162_7ACA1_20241119_8402.jpg" group-title="AOTG-KIDS", Babylon 5: The Road Home
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/079d1a2d-7e85-5013-8542-772db1972a31/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec37e2ec2c5e6d66b7ef5fce23208d10:f465259b599f792deb057ccbcd3719e1
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLJYQ_IVP_LAND_171x96_202429_173538.jpg" group-title="AOTG-KIDS", Backkom Bear: Mars Mission
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6e1bd3c6-b22c-5f1c-9ad5-e66d694faeeb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=162af51776ce732406ae888d23a4a610:8c9e004b3cbdd3bca7f518f1ef4eb8d9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNSQC_IVP_LAND_288x162_2024813_173032.jpg" group-title="AOTG-KIDS", Barbie & Her Sisters In A Puppy Chase
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d98fd11b-b839-5afe-9795-29c0f60de1b4/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6b014868815a6607438982c07032810:c860d905bb416c2c8f9b5aa64c3f0ab1
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBNQY01_IVP_LAND_288x162_5DADD_20241119_81659.jpg" group-title="AOTG-KIDS", Bee Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/563820a6-d28d-599b-a8ac-d3c616ad7fb4/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c835a9abe72c6067bb9a8125fb60a310:f6c114b321123b5159dd09a3ee783297
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKSBP_IVP_LAND_288x162_72D65_20241119_82714.jpg" group-title="AOTG-KIDS", Beebo Saves Christmas
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a3faa079-d4b7-59b3-97c3-71c8d0a3695d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33f7fe50a6502992272d20748381b710:e1dd9fae5ef5b09323e99449dba08a01
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBMAG_p_IVP_PORT_260x390_6A6D8_2024321_17286.jpg" group-title="AOTG-KIDS", BoBoiBoy Movie
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f00c164d-d7af-514a-9461-a76514e787c3/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f35c8959930b6df896b6b76a54d6b10:bfcdfc1adeb3b8c7d3723d08c9740701
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IWMJC_IVP_LAND_171x96_6A6D9_2024321_172856.jpg" group-title="AOTG-KIDS", BoBoiBoy Movie 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e6ee43c8-212a-598d-88d9-f140f61f5a04/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdd0c79cb4d1252d41b5e3cb0ba4e710:837a9fa7e9dd6a176754e19652e9ff76
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEGOM_Series_IVP_LAND_171x96_674AD_2024313_16182.jpg" group-title="AOTG-KIDS", Book of Mountain and Seas: Teeny Little Families
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1e3fe3b4-48c7-52c2-bfcf-97350a0923f5/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=935e5a6ce4e6f170154484e8cefe8710:57fb961cb923cdb5fe0131185d64499e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVGFS_IVP_LAND_171x96_56778_2024313_16132.jpg" group-title="AOTG-KIDS", Boonie Bears : Blast into the Past
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f370e211-1eed-50a6-bd0e-9a37da612169/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7238f8d917f9b486c5c57e5b52ff0410:47f2170d51cb70f14b248d0cc73df382
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JULSG_XTY_IVP_LAND_171x96_56C46_2024313_16132.jpg" group-title="AOTG-KIDS", Boonie Bears : The Wild Life
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6ca924c0-63ac-5b49-9ebe-ce62d8e168b8/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de75dddcaf2dba96aaa18e6bdbc59f10:1117c60a3c7e3bb30cb08a27427e1e35
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMVW_IVP_LAND_171x96_38904_2024313_161134.jpg" group-title="AOTG-KIDS", Boonie Bears: The Big Top Secret
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/38e7f564-1471-5fda-b9fa-f737af870387/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df2dd061cde54531408f47187604b510:2802e8b3e8039bbc449ce253efd50fef
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEVQI_IVP_LAND_171x96_67503_2024313_182716.jpg" group-title="AOTG-KIDS", Bunyan & Babe
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2feea010-e84a-56a8-9120-373c4e125d57/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8dfa7ad66a026f16640fd8d8b4734810:8792b991ee85a5578ade52bf07e2046e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRMFP_IVP_LAND_171x96_2CFE2_2024313_165352.jpg" group-title="AOTG-KIDS", Ceria Megastar: Surprise Sir
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6064278e-2613-5d9f-b01a-18548fcf0d7b/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fae09a442ddf96e23a3ae76baea0e110:56914074ce43cd51150c184d3a7a22e4
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KBPYY_p_IVP_PORT_390x585_5F87E_2024313_181356.jpg" group-title="AOTG-KIDS", Chellam
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9c104a38-4760-526f-89a8-27f481ffea8d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6b075e802fb4cc123bfa2f477617010:92f0f86ba899487322c5a8365d1ebe62
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_25317_IVP_LAND_288x162_7C653_2024911_82921.jpg" group-title="AOTG-KIDS", Cloudy with a Chance of Meatballs
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/acd947d3-602e-5831-b3f5-b5e6b9bc39f2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9fb1bc07d9c3f4d8e3aee16fcf5cd410:d1153715c9771617e085a5573e318c83
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GMLNX_IVP_LAND_288x162_7C654_2024911_83712.jpg" group-title="AOTG-KIDS", Cloudy with a Chance of Meatballs 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/609fb4a4-9244-560c-9a9c-678f8ec9d3da/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf17ae42459cfa51131237756e1f8610:10953c04be746a1476f1fc0fc9e6c386
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLIPL_IVP_LAND_171x96_7494A_20241119_8315.jpg" group-title="AOTG-KIDS", Craig Before the Creek
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/48064102-306d-5f6d-958a-4983b237e210/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a1ead053f7150ee53ae33505c55ab10:359135c1c1ed5ad25adee62c6e081108
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEGOB_IVP_LAND_171x96_674AB_2024313_16182.jpg" group-title="AOTG-KIDS", Crazy Kwai Boo: Sanxingdui Spirited Away
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7ce2eafb-f80c-5809-82d4-2a667797eff8/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a75bb75780399a7b92f2e46096aa110:e718722c120d2c0c5195ead4e09be732
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JYAHQ_IVP_LAND_672x378_560E7_20241119_81435.jpg" group-title="AOTG-KIDS", Dexter's Laboratory: Ego Trip
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/eed8466f-5ee8-55a3-a9c3-254e1d66de7f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c857088521e0354200e1c52661d910:d43043ee65969be93493cb1d0b20e994
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVGBL_IVP_LAND_171x96_56C47_2024313_16132.jpg" group-title="AOTG-KIDS", Diary of Dinosaurs
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9c70b363-65c8-589f-aa29-32854388853e/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9763d63858c17091ec4e066bed8f5710:b28d2541fc7303a1fc700b81e5e90a98
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKRPU_IVP_LAND_432x243_727AC_20241119_82659.jpg" group-title="AOTG-KIDS", Exchange Student Zero
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/42cf7be3-bc02-51b9-a6a7-98a1b1e08be9/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59976fb397a55231bc3c192e193ea110:716a6ec65a1f25b8713c500f38d1c82b
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQDNC_IVP_LAND_171x96_48192_2024313_161212.jpg" group-title="AOTG-KIDS", Foodiverse
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a01895ae-b89a-5dc9-8a42-7ba60fd7a1a8/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=162008f15b746824695608d0df8c0510:15a3fd197fd3f5ac90f02b0d8e3ce9df
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDAHX_IVP_LAND_672x378_6EED5_2024313_19356.jpg" group-title="AOTG-KIDS", Framed Memories
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5abbb86b-53cb-59cb-8acc-70dfc12e6dbd/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf8780f345b82a53cf51b3783e695810:61c80df3500933cecdb605f9e0962013
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEDYG_IVP_LAND_171x96_6BF8D_2024313_162212.jpg" group-title="AOTG-KIDS", GG Bond: Ocean Mission
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4140e3e5-7729-585b-bb56-2dcb6559bd1d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c557f2d4a621694ea66b38356e03f10:bc9687de88271928524939d67e5127fb
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCOPS_IVP_LAND_672x378_6021C_20241119_81747.jpg" group-title="AOTG-KIDS", Happy Feet
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/58cbd1bb-bcbd-5004-b7c3-db23c5025e6d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d4f63fa769b9e8843910d3c3373bf10:cbf2f377ccd2f47ee0c4af3646c318d5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWHGO_IVP_LAND_171x96_65E3A_2024313_161712.jpg" group-title="AOTG-KIDS", Happy Little Submarine : 20000 Leagues Under the Sea
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a50f7352-c0ad-5824-a38c-ae4bff2d0367/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d66f249c000039f3902bf33fafe96110:74f6456f11e695d30c35f3a8ec13bab1
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWHGP_IVP_LAND_672x378_2024718_17300.jpg" group-title="AOTG-KIDS", Happy Little Submarine : Space Pals
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6db18125-5e80-56b2-857e-43a76ab20ea1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b4908213f22341296cecefed72a0610:d90e53f6aac977b9feb7e95d478f1fb9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNVLA_IVP_LAND_171x96_4614B_2024313_161212.jpg" group-title="AOTG-KIDS", Happy Little Submarines : Adventure of Octopus
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ab992757-b2a3-58fa-b85d-c4dd286442b5/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57c3984e653f9f3bfe2f0cd28c9af310:8e285df64243ee7e6ae6933a4b6c13b4
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNVKY_IVP_LAND_171x96_46754_2024313_161212.jpg" group-title="AOTG-KIDS", Happy Little Submarines : Magic Box of Time
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5a992726-adb0-5e8a-88e0-283340dece62/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a37bc511c33c93168a8adc2d3de0410:789f0562001018ac126abf15b482f16e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNVKZ_p_IVP_PORT_390x585_45EF3_2024313_161212.jpg" group-title="AOTG-KIDS", Happy Little Submarines: Rainbow Treasure
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ce868060-c7ac-53a7-9857-6b812360165e/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c434aba969a9e68cb9a05d367c96b10:0d09a1e92eeb77b82473e53660033e98
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFYZY_IVP_LAND_288x162_676DC_20241119_82118.jpg" group-title="AOTG-KIDS", Her Blue Sky
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8425a576-e9c9-585f-9383-c66f99a901ad/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23f95852e5963e736650785bb4d30e10:f1c4fe349f792546af6beb500506a524
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GCZLJ_IVP_LAND_288x162_23E07_2024313_164720.jpg" group-title="AOTG-KIDS", Hi Papa
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d98b1777-1cdc-59d6-8a22-96c31426e1e9/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c74bc7c0b67e483d4021950d54977510:fb68f0e6e592b07b474ad8e77949d38d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HNNYK_IVP_LAND_171x96_6F055_2024101_111245.jpg" group-title="AOTG-KIDS", Hotel Transylvania
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c1ca15f5-c39c-5d37-b029-c88a4e84e6ae/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20b0d86cf82587e42d1b11f1c5c15a10:bc1be7e9457b86cf2015cae747b3ba64
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HMOHK_IVP_LAND_288x162_7D81D_2024101_11827.jpg" group-title="AOTG-KIDS", Hotel Transylvania 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6d4adbf1-599f-564e-8f25-8fa79ad27939/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8487d2e3654c546a057de86113466210:eb9feffab2c8d324fbda3b29a2b44ebf
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IPBJU_IVP_LAND_432x243_6EE93_2024930_95945.jpg" group-title="AOTG-KIDS", Hotel Transylvania 3: Summer Vacation
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8a8249b5-1045-5b07-b6a9-1a7da49b5bdb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=020120bb1380f44b4e90b1f65d85ff10:fcabb2da2966c8086aa6b16aad5539ca
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HSJGT_IVP_LAND_288x162_202431_101823.jpg" group-title="AOTG-KIDS", How to Train Your Dragon 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e17ea0ea-f888-5824-9a19-41d1c2175fcc/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b7145b6c2ffa9585b8cfa2342670c10:c31162735079b18ff704c3281bef2004
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVJIB_IVP_LAND_288x162_202431_102038.jpg" group-title="AOTG-KIDS", How to Train Your Dragon: The Hidden World
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/730a46c4-bfe1-5981-b53d-ebd60b24f567/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68b6334b7a216fc190a64cecc3e12c10:d55294e7faa62f3042e807733ab1819b
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXSO_IVP_LAND_288x162_20231228_203236.jpg" group-title="AOTG-KIDS", Jungle All The Way
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/dc3fa82a-be13-5f42-8216-249974400362/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5cb2c6ab6140eeacaa8390c285a27710:14f7baba8ea24eef5a1baed2781dd391
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMEBJ_IVP_LAND_288x162_76A22_20241119_83438.jpg" group-title="AOTG-KIDS", Justice League x RWBY: Super Heroes and Huntsmen Part 1
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/46ebfa09-8272-5da3-bee6-3e335312b552/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3683898a16e233e0be1a167e165bc410:a6ca862ac826469f2a6451b68ea815c1
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IRRAM_IVP_LAND_171x96_2D3DE_2024106_71743.jpg" group-title="AOTG-KIDS", Kembarku Robot
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/13ea8af8-936d-5259-8618-dcd963e335ec/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b58786a09a69cc414b534fbea2967a10:fed0d9f4ad0bac8cc64d596e4fd2b493
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEHYE_IVP_LAND_288x162_63F4A_20241119_81854.jpg" group-title="AOTG-KIDS", King Tweety
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/deb51b5c-137f-5990-a45e-b02875ebfb2f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe2f500cbcd4abb7b1a2aca3f6fa0510:634cae87fe599b287e7c81bde4c7560c
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDAHZ_IVP_LAND_171x96_6EED6_2024313_19356.jpg" group-title="AOTG-KIDS", Kuihpocalypse
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e9ce6725-11ac-58e1-85ee-d6f432adad43/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8f50b1dfe88d980fbc3bfd19f0bd4810:0f62936fd0ce08dd83d1bcef235778a3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMAYD02_p_IVP_PORT_390x585_48193_2024313_161212.jpg" group-title="AOTG-KIDS", Kung Food
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2102a438-25b3-508f-86b4-dbd7cc7681d7/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8f1f34c37cbfbfa2238622bf8038510:f1e66c6714669ddf9c26e68ed4b33aa3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLRJX_IVP_LAND_288x162_2024520_102019.jpg" group-title="AOTG-KIDS", Kung Fu Panda Holiday
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f48cba51-7e87-54a9-beab-c102d2b9b704/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8ee9e61652edc4d5f6eae4cdd074110:69870e1f5b7d5684184969297b91d90e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPVTT_IVP_LAND_432x243_46909_2024313_171532.jpg" group-title="AOTG-KIDS", Legenda Puteri Bulan
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/23b12d2b-c0dc-5611-8bbf-cf039ea296a4/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77d104f3acf5c6cfe686cac814cd7410:87ac031e462acde483c01f2b33810a50
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPVTX_IVP_LAND_171x96_46E2A_2024313_171532.jpg" group-title="AOTG-KIDS", Legenda Puteri Felora
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1ec1a9ac-2f4f-5982-bba4-10d8c11986f8/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7734b9c95ff30e58ccbb76ef30b7f10:5a6512b66d42096962e52473f09ebd28
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXMU_IVP_LAND_672x378_73BE2_20241119_82927.jpg" group-title="AOTG-KIDS", Marcel the Shell with Shoes On
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/985a7196-a123-5129-8ca4-a6cf650dd83f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b228636065018549bea26bccc61fde10:734ff5ba833165bf191617f9b89a28be
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JWDOX_p_IVP_PORT_390x585_56CC1_2024313_18216.jpg" group-title="AOTG-KIDS", Mariah Carey's All I Want for Christmas Is You
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f996ca36-be28-556c-ab89-e27a19838756/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12726e8cb1fb21aba6312bb9f912c510:97d650454391f2c7c7b32364b8776ae5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KLJYS_IVP_LAND_432x243_2024220_94120.jpg" group-title="AOTG-KIDS", Master Ji Gong
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d651c348-1ec8-53d5-89b7-164eb0dbeba9/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbb907e6c36eb989512f351bd02de810:7d9253be4fcf5419baed082951cf568f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_GZMAT_IVP_LAND_288x162_26471_2024313_165040.jpg" group-title="AOTG-KIDS", Masya Alisya
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6ba292bc-147c-550f-bb29-6c2c979b6e86/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c42095a9b596bedcda8ca976858df010:5fdc456f679707c0e0dc4854b2650325
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQCG_IVP_LAND_171x96_692A2_2024313_18336.jpg" group-title="AOTG-KIDS", Maya the Bee 2 The Honey Games
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/624883ef-7825-56bc-b061-4a220c9dc1d8/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07a3a5b7ab2f8389fff0b0fb39b8e810:8ba7fa74aba09e17e276c9f9966ef8ec
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVQBL_IVP_LAND_171x96_692A3_2024313_18336.jpg" group-title="AOTG-KIDS", Maya the Bee 3 The Golden Orb
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/189401b3-75fc-54ca-a8f5-091ec0c449f6/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ab1354d63fe2326429c2c96b6c04d10:453a7185dacefbf04a8a78463e06ea44
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUUDJ_IVP_LAND_171x96_692A1_2024313_18336.jpg" group-title="AOTG-KIDS", Maya the Bee Movie
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/26e57a3d-a203-546c-b08e-c91109698f3f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14602e5b086dcb3fb0e6a71186c10d10:54253db43c6ef6100c0cdbb35e2bb68a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSPVE_IVP_LAND_171x96_4C6F3_2024313_161212.jpg" group-title="AOTG-KIDS", Maya The Bee Movie 1
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c350da8b-546b-5ea0-aef2-6568089a139f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43b15039927e14d1c29aac292e312c10:c6f55a301dbfb3b82d353e2309a1db5a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLOV_IVP_LAND_288x162_7E6C3_20241119_84425.jpg" group-title="AOTG-KIDS", Migration
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/90efa3c6-ce0e-568f-b3ca-479612ddd958/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65882ffd3db30ac04f46231207ae6410:b5b42f41b0aaf5652255925ec910612d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFOVQ_IVP_LAND_171x96_6EDF7_2024313_162532.jpg" group-title="AOTG-KIDS", Mini World: Powers Awaken
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/dba95743-7981-5dc4-9129-3cf191d71b13/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b529e779ba369021789e36da38da5110:c19370e42c9c4615294621052b2f13c5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JMEDH_p_IVP_PORT_390x585_5CA21_2024321_172216.jpg" group-title="AOTG-KIDS", Monkey Donkey
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/eba6f660-8fb6-5c65-9a33-984ec1af40f5/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05c2534f2357218239a88a9787ba3c10:be79c94247959d2080a70d945e63de5d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQDHQ_IVP_LAND_288x162_2024313_111640.jpg" group-title="AOTG-KIDS", Monkey Magic
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d65a267f-b2d0-5f40-b23b-cbc13493468d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d66ce82995a024cfdb2e1eb32cd3f110:1d15a782e9c3073a1e428ced79014cd8
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEPKR_IVP_LAND_171x96_67FDC_2024313_161942.jpg" group-title="AOTG-KIDS", Monster Fruit Academy
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/305a1211-083b-5530-8868-84085aaaf110/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b1b6120b80c5fc0ea94794f5b392510:1c20658144fe4459a0be184146c4f003
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASF_IVP_LAND_171x96_5A8D2_2024313_18626.jpg" group-title="AOTG-KIDS", Motu Patlu & Robo Kids
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f3dbc833-1671-5452-8923-a67bc4823179/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b4bff7233afaa7ec7e4bfee7865c910:87fc8579f5dd3f503fa220ec7bd96850
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEYBR_IVP_LAND_171x96_6A743_2024313_183856.jpg" group-title="AOTG-KIDS", Motu Patlu & The Secret Of Devil's Heart
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9659f46a-7c55-5a14-b21c-dbc00786612b/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32492c8286784c3a2cd5e7824e1a7310:be080eb39362e5eb054466c465612f28
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEYBP_IVP_LAND_171x96_6A744_2024313_183856.jpg" group-title="AOTG-KIDS", Motu Patlu & The Terror of Giant Beasts
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/dd655832-64f3-5c21-949d-1d8ea6f113eb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e3755874a17851ad95c26558d2a5c10:3fc6d3d9b4460f1d693c1a2c971fac9f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASW_IVP_LAND_171x96_5B61C_2024313_18716.jpg" group-title="AOTG-KIDS", Motu Patlu 36 Ghantey Race Against Time
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ffa83c4f-6d03-51b1-9238-c411eac036a3/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d286cf302e413f7a420170029fda710:bd842b9bd156ae65538c176af3d08adb
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASS_IVP_LAND_171x96_5C98B_2024313_18856.jpg" group-title="AOTG-KIDS", Motu Patlu Aur Khazaane Ki Race
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/83d8ac20-296f-56e4-88da-3b96c732f954/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f1f743119da0636596c384c9260f410:451200c80db0193b74ad7f4a2b55ac22
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASI_p_IVP_PORT_390x585_5C98A_2024313_18856.jpg" group-title="AOTG-KIDS", Motu Patlu Deep Sea Adventure
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d22744a6-876d-5820-b687-25f38ebd46bf/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dca79a82fab36c63b3df47c602673c10:c40f6af167321cbfd36ba7f775d0161e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASN_IVP_LAND_672x378_5DDFE_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu Dino Invasion
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3f04cfe5-25eb-562f-af3d-089186fe21d9/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6dc1e040e6a927edf1731b019eab2810:b401c5be4ebd088479d4b69ac549371c
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASJ_IVP_LAND_171x96_5B61B_2024313_18716.jpg" group-title="AOTG-KIDS", Motu Patlu Double Trouble
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5993e81b-210c-558f-847e-36787bbc0613/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fb1c9af1f77f615b9e6a7f80fc77310:517afee3c2d7020d9085f7220994cdd2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASX_IVP_LAND_672x378_5B61D_2024313_18716.jpg" group-title="AOTG-KIDS", Motu Patlu in Alien World
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/174c9ea2-549a-5db8-9d2a-2059cc5cedce/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0ce4107dec310ff774dc7e4c3ca8910:a6f55137013f87005a782e8daf35418c
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASV_IVP_LAND_171x96_5B61A_2024313_18716.jpg" group-title="AOTG-KIDS", Motu Patlu in Carnival Island
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b4d07cbd-f390-55ae-a30a-4390fab7b7c5/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=229bc5f617ef535247cda1e0f458fc10:1d51bb9913d50bf7d6f0a567e9198782
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASL_IVP_LAND_672x378_5DE1B_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu in Dragon World
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/416e4c62-81ed-5595-a7bb-71d4ad2a5986/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d81e5158bf5bca03811164ff80b8d10:c49a59fbf88bba04f737ac2010627cb2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASE_IVP_LAND_171x96_5A8D7_2024313_18626.jpg" group-title="AOTG-KIDS", Motu Patlu in Hong Kong
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/abf28883-c078-5f39-9c72-77d47d5ae896/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d11ae466ec37fe8a7a266ae9265e8510:22d5f431ea351698c3dead733c9824f4
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASM_IVP_LAND_171x96_5DE1D_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu in Octopus World
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5c94957c-56a5-5c24-8e8d-83d069dba374/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a215cce341840de267056432c7f4210:b6239efd8064e05cbe4a4d2dd9f14e92
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASU_IVP_LAND_672x378_5DE1E_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu in the City of Gold
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/61a4cb14-9306-5ead-89e1-521506682ee2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f01a3475ca09438567927fd8a5b11510:e83305f11ac3d840846c4382e719c576
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASQ_p_IVP_PORT_390x585_5DE03_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu in the Game of Zones
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/7436c0ee-3c51-5d84-a4ce-5e6d17d03320/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1514c60395feb4987837fcea926e610:cb4e5fa0da053ea1ce00783a6e0614b3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXWA_IVP_LAND_288x162_2024531_225816.jpg" group-title="AOTG-KIDS", Motu Patlu In The Metal World
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3c24721c-7275-5286-8378-9df23e7daf2f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2fdd34555830003ca14c8866b138210:37d24cb6f3eb3e1a8c4e5abdaa66d229
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KACIB_IVP_LAND_171x96_6A742_2024313_183856.jpg" group-title="AOTG-KIDS", Motu Patlu in the Toyworld
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a3d3f263-5f54-5141-a47c-803acb8ba091/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74adbe17a5f12193367b0eb9bbb9a510:2b9ea7d2a9426334c61bac492a1831f9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASG_p_IVP_PORT_390x585_5C988_2024313_18856.jpg" group-title="AOTG-KIDS", Motu Patlu in Wonderland
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a332420c-db2a-5d6a-9124-048a64cce9df/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b51d0a58de70debe4acc527b1f894c10:c3c5bc183e8da1c86ee107a2fc4af8c0
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZAST_IVP_LAND_672x378_5DDFD_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu Kung Fu King Returns
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ca8d6566-f7cb-5bbb-9590-7841e9c906f6/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b053d98462383f66f0bc7e466207810:82271e50cbb8cd2581af8eeb6d0b8436
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASD_IVP_LAND_171x96_5A8C7_2024313_18626.jpg" group-title="AOTG-KIDS", Motu Patlu Kung Fu Kings
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b8556e33-4c4b-5413-8b44-f148c70b88a7/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd5f638c62f657589120277b39b34f10:d03abc09e6b79eeeb706e8fc2debbac5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASH_IVP_LAND_171x96_5C989_2024313_18856.jpg" group-title="AOTG-KIDS", Motu Patlu Mission Moon
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b2e8b3a5-afc4-5c6f-8ad8-b5fae2d765a0/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09486c4b96880d6fd65acb69a6a7cb10:c6b84e0a684ca09e9126d9dc5d7a5c0f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASK_IVP_LAND_171x96_5DDFC_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu The Invisible Plane
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b836f889-38c6-5c4c-964b-478710ed9ca0/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e6421e39f8b4559a2be550ca9918010:09be7324f8d04443f0477439f7adade2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASP_IVP_LAND_171x96_5DE02_2024313_181126.jpg" group-title="AOTG-KIDS", Motu Patlu the Superheroes: Super Villains From Mars
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1f1a3021-dde0-5a2e-aa32-7168495ad920/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d1535251615932847a2f5f7e10fe610:f1b3d4285343653e412cca5415a81493
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASC_IVP_LAND_171x96_5A8B5_2024313_18626.jpg" group-title="AOTG-KIDS", Motu Patlu vs Alien Ghosts
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a847fafa-373d-5137-8221-e724fe7afdc2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66deef16f3778793b0f6d3d90ae3ec10:d9178decc03355d8119caa126525c9f4
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASR_p_IVP_PORT_390x585_5F1A4_2024313_18136.jpg" group-title="AOTG-KIDS", Motu Patlu vs Dr Destroyer
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a79bf0f4-dcfb-56f7-8d74-6a56ec1c16dd/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=651ae3de070fa0055a61bdd9f23acd10:74cc9a4ab4a343e0718458b1d73d4505
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KACHZ_IVP_LAND_171x96_6A745_2024313_183856.jpg" group-title="AOTG-KIDS", Motu Patlu: The Planet of No Return
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/27b337ee-5bf8-54ac-a5cf-b1e3d5b9de24/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=630cb3689ea735d608deae6254500010:dd8eed858af888f313b3524eeb04516d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGZSB_IVP_LAND_288x162_69586_20241119_82133.jpg" group-title="AOTG-KIDS", Mummies
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a8e0fa22-9ede-5b76-9d71-39f4d6b47af6/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abf9865a90327177ce51c462a5be3810:e814b22e7fd0395fa21ef2e92b8b6a05
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSZWF_p_IVP_PORT_390x585_4CA66_2024313_161212.jpg" group-title="AOTG-KIDS", New Happy Dad and Son 3 : Adventure in Russia
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/e3feeff6-15d9-59a7-be61-598dc57bb83f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92b1f54d6a873b4c07854c1daa82bd10:b72c52e14aa70485ba76e2c26f72d2a0
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVVIL_IVP_LAND_171x96_5A4EE_2024313_161352.jpg" group-title="AOTG-KIDS", New Happy Dad and Son 4 : Perfect Dad
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/537060b8-d69d-5a93-9478-5ddc0dcca715/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b46ed8735368a12bef8a814c9a87610:f1f76198e27d098f90de0371543f4f92
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KHKGD_IVP_LAND_171x96_6AB2D_2024313_184036.jpg" group-title="AOTG-KIDS", Nussa The Movie
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3e98503b-6550-5a34-832d-079988a9f470/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c48f92f261bd71a3a2e6306a873910:7df8e5b758f04607b5d6e37572051139
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IYKWY_IVP_LAND_288x162_35788_20241119_65135.jpg" group-title="AOTG-KIDS", Over the Hedge
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6ac426c2-f22b-55b7-b7d0-078df94a5c52/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdf1be710b10fa7757995fbdf20f1f10:02cc16b344ad125ceb7660ab51641234
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJQVG_p_IVP_PORT_390x585_2024516_43458.jpg" group-title="AOTG-KIDS", Pasanga 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/23e18271-0a3e-58a1-935a-69def0b4b268/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=74a4859c27f9fab8b2964744f0f0d910:37c474874ba46a46a1c7df188788d7aa
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVVIM01_p_IVP_PORT_390x585_5120D_20241119_81221.jpg" group-title="AOTG-KIDS", Pat The Dog: Into The Wild
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3564353f-b8b7-53f7-9198-f738f5fc7a85/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f87ce7567f40b185e531e66def5b7710:882336e88ee18b9f904c669c37cea337
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMTSA_IVP_LAND_171x96_77C6F_20241119_83615.jpg" group-title="AOTG-KIDS", PAW Patrol: The Mighty Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3a5d4dd1-6d87-53ff-9f15-a739b1885873/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=efb43ddcb8feb29885a79dc75b025210:7c84e8a0db00d16e2de376f623e46b37
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUKIP_IVP_LAND_288x162_4E2FE_20241119_81029.jpg" group-title="AOTG-KIDS", Peter Rabbit
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f2ce6a60-97c8-5be3-8cdd-80f2cb2d2c96/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=756ef3841661ed44df424262ab505110:8d7f036f59d2f355a683ba4f33fd6cf9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ILOIU_IVP_LAND_672x378_202489_103931.jpg" group-title="AOTG-KIDS", Peter Rabbit
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b98c2e50-fa2f-5b63-898d-fff2e9995bd3/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e33c0364dafa005c4da64d6f8e6e4c10:1190c0d9c61bff5fc5308d032a1fdcec
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEPAB_IVP_LAND_171x96_674AC_2024313_16182.jpg" group-title="AOTG-KIDS", Pleasant Goat and Big Big Wolf: Dunk for Future
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/74bdb410-d3ae-5513-a57e-ad7f81225732/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c486ef4681dfdac626001d620a5110:8b90a26402525e17ec45ea0923e2e29e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEVQJ_IVP_LAND_672x378_6754E_2024313_18286.jpg" group-title="AOTG-KIDS", Princess Emmy
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6b593f2a-e31d-5f72-acec-39c2c841d626/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02044939f55937d4860c93b1fc00b310:8db45ac46c3810bcc5e1a04bd669ebba
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNXPU_IVP_LAND_288x162_7ACA6_20241119_84018.jpg" group-title="AOTG-KIDS", Ready Jet Go! Space Camp the Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9b50b52e-5ebe-5911-8d8b-a983b79fc85e/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ba646a9ee02313026891f415365e910:a7c029b8e61cafbd31efaefcd1d11361
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFLIK_P_IVP_PORT_750x1126_2024319_131742.jpg" group-title="AOTG-KIDS", Realm of Terracotta
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ffdda1cf-396a-54e6-9daa-5288594a52f2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e396d3f8c6ffa4dcf4319e41511a010:86d3ff8feaa713d8cb209e1d9da87cb6
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IVP_GWNFE_IVP_LAND_672x378_7E668_20241023_134124.jpg" group-title="AOTG-KIDS", Ribbit
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/bb159d3d-af36-52d2-bfca-a4e9bac17ffb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02022ce618ab6eb7ceab7d725beb410:6f6bc7edc3e80cfced10afb9504eaf2d
+#EXTINF:-1 type="movie" tvg-logo="Teenage Kraken" group-title="AOTG-KIDS", Ruby Gillman
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a571f75e-a4fe-5251-892b-868549b28bff/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa246232c7feae3a66f012fb9fdd0510:a0de670e2e816a7ca5de5d56790a246f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIXSN_IVP_LAND_288x162_20231228_203144.jpg" group-title="AOTG-KIDS", Rumble in the Jungle
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/15944c56-52ba-5eae-a881-be9087d715bc/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8045ba96b1d017887a0d1f2859e6610:ff6540e78f4ceeb8090f1dc0dcdffb03
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSYIR_p_IVP_PORT_390x585_4B5A9_20241119_8946.jpg" group-title="AOTG-KIDS", Scoob!
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a7e69961-4420-5f5f-abe1-cf8a309b65b2/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4735d70a6701f129d1373a44e7334210:6c4997c2dfc538e0cbd54ebf63a988b7
+#EXTINF:-1 type="movie" tvg-logo="Too!" group-title="AOTG-KIDS", Scooby -Doo! And Krypto
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/439ee709-e5f8-59ee-8f34-50dc616c3a4c/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0481c2f8bf107c7c20f0678b14e4f10:fe929f31b36025e781d3891642019018
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JKRDD_IVP_LAND_288x162_3F569_20241119_65259.jpg" group-title="AOTG-KIDS", Sherlock Gnomes
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b93de7f0-0491-5262-8bd3-19013c35a54c/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b365db3097ed0f5ef60a5e4b60822810:d99ec3eb2c85e0862ce7a89a83717777
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IYKXI_IVP_LAND_288x162_35792_20241119_65135.jpg" group-title="AOTG-KIDS", Shrek Forever After
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8b88719f-462f-5107-8cf9-e3cd3fd9937c/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f705ace410abeff6feb6aa8e41aeb10:3be9535f7a552076348f52b16d4ff192
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JUZKG_p_IVP_PORT_390x585_4F327_20241119_81045.jpg" group-title="AOTG-KIDS", Shrek the Third
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/244151e6-b929-5cc9-9b84-af1678c1c510/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2645fa0b0bc96536497c519ad1c17c10:40aa4b4270b92ce90a4ebd3d46ca07d8
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLPR_IVP_LAND_432x243_7E6C7_20241119_84458.jpg" group-title="AOTG-KIDS", Sinbad: Legend of the Seven Seas
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/058ee7f3-5d66-5580-ac81-621aa97e8a9b/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d01b94f8e46d62cc17080659cefd10:af6d0e3eb1805525c60fbf5bcdb2fcb3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPLPS_IVP_LAND_171x96_7E6C8_20241119_84458.jpg" group-title="AOTG-KIDS", Sing
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/29aea062-51fb-52bf-b538-ff53968de229/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3107c663d1511d8720019b27ecf29710:66f47bb79f54c16a9e8904882d69ccfe
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZVJM_IVP_LAND_288x162_202465_193130.jpg" group-title="AOTG-KIDS", Sing 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/06a77f69-9a1f-540b-bc2e-0f3e554fad27/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f563271770e7bc9e9d849f1203ef8f10:6073660ebca2b632948216a117c2482c
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZVJM_IVP_LAND_432x243_7D703_2024927_202827.jpg" group-title="AOTG-KIDS", Sing 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3841c772-d65e-507d-8160-a0d4e868bc24/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac4d30617815d26e54d1a72692f2910:4fdecd0773fc753b07516fc16d2d3de2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT)_IZOQB_p_IVP_PORT_390x585_36BE8_20241119_65225.jpg" group-title="AOTG-KIDS", Smallfoot
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47c23594-3eba-59b7-a07f-5764d279bb87/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8380287c9e1eba89c748d35f86541210:92b494ac2c1555bd6d026562014b6c9f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KILYQ_IVP_LAND_288x162_2024731_13252.jpg" group-title="AOTG-KIDS", Spider-Man: Across the Spider-Verse
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/04244e20-9afc-53e7-bee7-5c161fbf00bf/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7693672b0783049de4a7912deb40c810:1822363d2ce562559c8067b18f2d639b
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ITJOC_IVP_LAND_288x162_2024731_222228.jpg" group-title="AOTG-KIDS", Spider-Man: Into the Spider-Verse
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/58a95d8b-dd4a-59a5-a61d-d461f5e69002/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b63ce14f9e806d6796287825ec7f9f10:430a64794eeda5b96f9d44af312f640d
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JJUAJ_IVP_LAND_432x243_3E164_20241119_65259.jpg" group-title="AOTG-KIDS", Spider-Man: Into the Spider-Verse
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/6dc67243-0b60-56e0-95a7-cf236c9c8be4/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76236147ef4edfa383bed3c86d9aad10:3d3c09a198a22631bc11814ab6eea22f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPUGT_IVP_LAND_432x243_46697_20241119_65630.jpg" group-title="AOTG-KIDS", Storks
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d8e0129b-0ce2-5bb7-ab14-ec0b2f09cf64/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9ee05232415dbeaaf7a35656521010:ccf31ff44773890fc0b33dd12d34ece9
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZUVN_p_IVP_PORT_390x585_5A2FA_20241119_81610.jpg" group-title="AOTG-KIDS", Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/11d2289f-a0c8-50ee-9a96-65ab23fdc624/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17956a242d32d82e41ce58950ec51510:412075e3375022afbd9338d145fc7467
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IKPKT_IVP_LAND_672x378_2DB23_2024106_13651.jpg" group-title="AOTG-KIDS", Suatukala
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/3e47c240-13d1-5378-b0f8-fdab546272cb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46a07fa95ba6a7baa5048356b7ee6f10:a5247d3859cc64cb3f0b1a157a72bef4
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCSWE_100anniversary_IVP_LAND_288x162_7C651_2024830_175122.jpg" group-title="AOTG-KIDS", Surf's Up 2: Wave Mania
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/68212144-b2c8-513a-b153-82403e8d48d9/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00d557c6715f9c4e8925e3f93be0eb10:10e206dc8bfa64a5a7fec922b0d0e327
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNCLA_IVP_LAND_672x378_78AF7_20241119_83755.jpg" group-title="AOTG-KIDS", Taz: Quest for Burger
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/13ba5492-2247-5e66-a25d-39a106935568/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4affc4c3b79c7fd37b598f9cf8c410:d43fa46136a6a31a4a7ce06015db1d3a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KFBLC_IVP_LAND_288x162_655B0_20241119_81940.jpg" group-title="AOTG-KIDS", Teen Titans Go! & DC Super Hero Girls: Mayhem In The Multiverse
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d616cd73-c941-53f9-9409-4fcb17f1decb/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09d0a515f743768d5f20f45ac1be6410:29a5d774b5c8ee55732e150c50c0c0c2
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMKWB_p_IVP_PORT_390x585_77081_20241119_83559.jpg" group-title="AOTG-KIDS", Teen Titans Go!: Night Begins to Shine 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/db764df3-9015-55fb-9516-528c9b4f4a22/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b0957f7d8fdd7930e8fe5c1d133310:e895a3e4b95f39f7ca0b0e825c10793f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMKWH_p_IVP_PORT_390x585_77082_20241119_83559.jpg" group-title="AOTG-KIDS", Teen Titans Go!: Night Begins to Shine Special
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/4a6c8d33-c6c8-50b6-89cd-8c80c66aba68/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7f66429c1af0a88a600885d69e89210:e4a5562237603ec6ab051f62808437bc
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_FYNJT_IVP_LAND_171x96_2646F_2024313_165039.jpg" group-title="AOTG-KIDS", Telemovie Elly & Epit
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/01f91756-591b-5bf0-9c07-cb2ca2de81ab/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c474acb8d1f2a548cc7a5fddfb82610:82ea827f53d9cdddb8579052037d4a55
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMEJE_IVP_LAND_672x378_76A2C_20241119_83525.jpg" group-title="AOTG-KIDS", The Angry Birds Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a3a166a3-ae89-52fa-91f3-9fd6c67716d1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a06b5ef11aadebf4b27f86c030ec210:a163483eba5927045328730ab219d86f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JTQBY_IVP_LAND_432x243_4CB44_20241119_8946.jpg" group-title="AOTG-KIDS", The Angry Birds Movie 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1a0e8522-0870-588b-9d68-c7b455a0255e/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1adedbc178f77a42ba26b96c09128d10:f81ed3d9e01774f02e7d017639c66f39
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDAHV_IVP_LAND_171x96_6EED0_2024313_19356.jpg" group-title="AOTG-KIDS", The Batik Girl
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/379fb4cc-e02d-5d89-894f-7392b47e2cac/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=074050bf511115c0168716fc41ca0510:12d3b8ea0b5af421c6d76e72dae57b32
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMEJG_IVP_LAND_171x96_76A2D_20241119_83525.jpg" group-title="AOTG-KIDS", The Boss Baby
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/47d3950d-5f20-5a0f-9400-75e0aa565dbf/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4faacdaa83f4b289d061af997830f610:1ede3902d124bf5ca98cf57742741fe5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JYKHB_IVP_LAND_288x162_202442_42015.jpg" group-title="AOTG-KIDS", The Boss Baby: Family Business
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8ee163f5-7f30-59d7-91f5-2a097d2d62f4/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a004a642b3fb14dce6c4bb9551cf9110:3f50af3e0f53677287d4627f1c001d89
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JZASO_p_IVP_PORT_390x585_5F1A5_2024313_18136.jpg" group-title="AOTG-KIDS", The challenge of Kung Fu Brothers
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fac59e73-36ab-5eff-ac3d-bc0da41e2109/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79f00e3836ef793f8cb0482e3ee88710:2ba968c581440ccdaebc7950f0010f3b
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDAHW_IVP_LAND_672x378_6EED2_2024313_19356.jpg" group-title="AOTG-KIDS", The Dalang's Tale
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/55a435ed-ba96-5140-b8d2-8e889221806d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6be94afcddde1fee9a42259c15a4f610:ded835bbb143df3b2232408c314b7a2a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JSYJB_p_IVP_PORT_390x585_4B5B0_20241119_8946.jpg" group-title="AOTG-KIDS", The Emperor's Newest Clothes
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fadcbf2e-be70-58f9-8c82-19a78c96a4d0/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e9007f6c0de7205122d4bfdaceef10:4ff0e246a8103204ae5c44d256536c56
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JAMUV_IVP_LAND_672x378_3940B_2024313_161134.jpg" group-title="AOTG-KIDS", The Ladybug
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1f4af5a0-b370-573f-a5ce-c6c58fc304ca/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bf35de74cb47748283498626bad7610:6a4c93d9a8262c460b9149a8737d8973
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ITMGU_p_IVP_PORT_390x585_313F8_20241119_64733.jpg" group-title="AOTG-KIDS", The LEGO Ninjago Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/019b2463-0fd8-5184-bea7-98eedeeec6fe/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfac5bac71ae4d4fdbc16c964c1f4610:023ae5dec9db8cf67947bb0914fedc91
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HWJZA_IVP_LAND_171x96_2024228_172043.jpg" group-title="AOTG-KIDS", The Secret Life of Pets
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/490604f6-e957-5b6c-a60c-41773ed49543/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da9d390029c4602b1b12bb7cb236ac10:0dadddd7f86906a8ec1af1cff8956fdc
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYGZG_IVP_LAND_367x207_202441_84035.jpg" group-title="AOTG-KIDS", The Secret Life of Pets 2
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/328291cd-0ca3-5548-81ec-96e1ffb1dd57/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db4f21581c1a0e7ae3c835811bdf410:4886e3ed01aa8fab0910d88d45acd637
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXOO_IVP_LAND_288x162_73BE9_20241119_83015.jpg" group-title="AOTG-KIDS", The Super Mario Bros. Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bf85b642-2fc7-55bd-9a1e-5d72590e4d5a/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbaf0544d80aface9423c3f92549f810:de90f96624e3991675062166ad4bd12f
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KORLR_IVP_LAND_432x243_7EF33_2024114_172118.jpg" group-title="AOTG-KIDS", The Wild Life
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/b16f100a-b0c0-5a91-b7cd-38c43844d9a7/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54f97ae4b458af968c8fad8dbc120910:ddccc7d4f81642e501d86c022814f078
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KCOQH_IVP_LAND_171x96_60229_20241119_81747.jpg" group-title="AOTG-KIDS", Tom & Jerry Cowboy Up
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d7d09d0f-96b5-55b7-b7b1-5a95ec493bac/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbc663a28549a35ec2d5203c1f9d2110:b92a16e093856af1e80fca5e19ebc030
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOYZJ_IVP_LAND_171x96_45DD1_20241119_65541.jpg" group-title="AOTG-KIDS", Tom and Jerry & The Wizard of Oz
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c0c5b11a-f92d-5d40-a9a7-a02d00bb18ab/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a627c3a195ecc3a5a3514d60f93ed10:d8dc15c67a51dae9af9428b3b26e6050
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOYZO_IVP_LAND_672x378_45DD2_20241119_65541.jpg" group-title="AOTG-KIDS", Tom and Jerry Meet Sherlock Holmes
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/9b320055-7f66-51e1-88ba-a93920f11040/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab081f1b720568bf62ea73f75d7ce610:aa4e4fb01d8578b483f942c5414cae56
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDK_p_IVP_PORT_390x585_477E3_20241119_65758.jpg" group-title="AOTG-KIDS", Tom and Jerry's 50th Birthday Bash
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/441d1af0-07cd-51ed-98c9-c1619b2ce2b8/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a93e526798e2f9f571c088f5e4766310:ec0668f89ced6109032d2764388fd094
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOYZV_IVP_LAND_171x96_45DD3_20241119_65541.jpg" group-title="AOTG-KIDS", Tom and Jerry's Giant Adventure
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/6efd291f-dd26-594e-84e4-481efe2a406a/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b152b8f740e428daf6503fc069fba10:9708c0593bf489f022e7aa83857120e4
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDM_IVP_LAND_672x378_477E4_20241119_65758.jpg" group-title="AOTG-KIDS", Tom and Jerry: A Nutcracker Tale
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bf55bccc-681f-56db-8134-e9b8d6d0b51d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15b105a19e29dd232f7b3b91bf6ae010:c5e8380c824939f3064cac677006a1a0
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDO_IVP_LAND_672x378_477E5_20241119_65813.jpg" group-title="AOTG-KIDS", Tom and Jerry: Back to Oz
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f2cc75b3-3095-530f-b14b-e4d95fd88cfa/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93320af971dd01f983291b6337dbc410:bbcf022e085e12a8651e911df3b63a6e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDP_IVP_LAND_672x378_477E9_20241119_65813.jpg" group-title="AOTG-KIDS", Tom and Jerry: Blast Off to Mars
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/f66f78f6-f898-5399-835b-4244aac8226f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=349081e28c473729fe27c2c98b423110:beb1ec54cc27e59ac9f1db963eafee5a
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOYZW_IVP_LAND_171x96_45DD5_20241119_65541.jpg" group-title="AOTG-KIDS", Tom and Jerry: Robin Hood and His Merry Mouse
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/354a50a4-63e0-5d0a-a00a-1e5946cee8e7/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd49718439039da05bcb0ef2a8645b10:0685f88d818565786e7380fcb00e10ec
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDQ_IVP_LAND_672x378_477EA_20241119_65813.jpg" group-title="AOTG-KIDS", Tom and Jerry: Santa's Little Helpers
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/42460679-2691-52ea-aa2e-c1f56dc36c77/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9355c1d06cac204d3988c5b4776ac910:df8099d4074b48220211d9b338982d29
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDR_IVP_LAND_672x378_477EB_20241119_65813.jpg" group-title="AOTG-KIDS", Tom and Jerry: Shiver Me Whiskers
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d3cb2f5a-d7ca-52be-b88d-280222d9a238/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7c75f30b9877241e9e8050791d76b10:775b6388cfcca1f384e32edad68af8a3
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JOYZX_IVP_LAND_672x378_45DD7_20241119_65615.jpg" group-title="AOTG-KIDS", Tom and Jerry: Spy Quest
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/92cad9a6-89ff-5ff8-9c35-b7b24ea3d1a1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55df71435cff839eccb6e662719ee710:3eadbda1cef24f7cfc6a96cdc1a8fe39
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDS_IVP_LAND_171x96_477EC_20241119_65813.jpg" group-title="AOTG-KIDS", Tom and Jerry: The Fast and the Furry
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/1405a78c-11b3-5e2c-8b99-37a6379f88f1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b18b3f19e9da5175135532be69479810:9b55d95b73df54d4aee49b39eed1d214
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDE_IVP_LAND_171x96_477E2_20241119_65758.jpg" group-title="AOTG-KIDS", Tom and Jerry: The Karate Guard
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d2cbab44-648b-589e-a55d-1b19666c75ce/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1dde2c2b3855e3f3dfe19015c272e10:a9a27a7f41e5512215e5670609e0aafc
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMCZ_p_IVP_PORT_390x585_477E1_20241119_65758.jpg" group-title="AOTG-KIDS", Tom and Jerry: The Lost Dragon
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/0cb1c36e-dffd-5737-8668-d76a186d5954/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=735123044af434a343af0cc894cf2b10:377a1f90e4fd6aea148cfb0617f88e5e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KKXPD_IVP_LAND_288x162_73BEA_20241119_83015.jpg" group-title="AOTG-KIDS", Tom and Jerry: The Magic Ring
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5f1637b4-fbc9-512c-96f3-d293f9757ac6/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ffa6473dc37cf6b7fc989fa13ef7310:082a3fbe1befa04874ab0a99b3bb0559
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JQMDT_IVP_LAND_672x378_477ED_20241119_65845.jpg" group-title="AOTG-KIDS", Tom and Jerry: The Movie
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/a62f6e73-0eb0-52ff-ba6b-83ae6e76e496/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ea7d15cbc848e56bd0b15f11ff2dd10:a1db694b03b9ac17efc841d18ebd54c1
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_ITMQH_IVP_LAND_288x162_313FF_20241119_64734.jpg" group-title="AOTG-KIDS", Tom and Jerry: Willy Wonka and the Chocolate Factory
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/84a0952b-1f0b-547b-a773-e57c0148be16/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a6bdda8472df0c92fd0bba3c2ea1010:d5f509ae4d9e4356a794ed846c026e04
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KJXHS_IVP_LAND_171x96_702B8_20241119_82537.jpg" group-title="AOTG-KIDS", Trick or Treat Scooby Doo!
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/ce78d8a3-a51d-570b-afb2-51b5b7abac90/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b63cd7530ea61257e3b9a84fb5bcff10:c51c93d63b692d8a5ad56c16673ba666
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOWBT_IVP_LAND_432x243_7CDC1_20241119_84335.jpg" group-title="AOTG-KIDS", Trolls Band Together
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c8f1ec0d-ff46-5540-86ef-31a90e1401af/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d982bfc8ba4a366c0a25299c15bc2810:ee3498f104ef2c2fd46a0e98a6f5ce9b
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_HTOTG_IVP_LAND_672x378_202441_83823.jpg" group-title="AOTG-KIDS", Turbo
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/fb165c0f-29e5-5b60-b4ec-107ba758364d/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=770db37c02b84aebb11af8b1f6e95d10:0fb67b33e04aa79bc4f862ae26774c08
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRF_p_IVP_PORT_390x585_6D617_2024313_185356.jpg" group-title="AOTG-KIDS", Ultra Galaxy Fight: The Destined Crossroad
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/2a9fbff6-f57f-5e71-9bd5-aaec00498965/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8cfe1007321afad7c61fc29420ff210:86576d697e67d1419a83d8c756407680
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KIGRE_IVP_LAND_171x96_6D616_2024313_185356.jpg" group-title="AOTG-KIDS", Ultraman Decker Finale: Journey To Beyond
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8f42070f-9bca-5c38-aa04-ff7c5809cc8c/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86ccb3e9c93ef145167f18ce7dd4db10:62db8d47f5a6ce6b46a9b07175f519b6
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KDONB_IVP_LAND_288x162_64663_2024313_182127.jpg" group-title="AOTG-KIDS", Ultraman Trigger: Episode Z
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/c5d85333-55d6-5711-a519-d44b885333be/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63ea10de83252d9bfd4561a98807ab10:b501ababaf06afd778800ec3535e1241
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KEVQK_IVP_LAND_288x162_7E0FF_20241015_93012.jpg" group-title="AOTG-KIDS", Vic the Viking
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/5952408d-8532-5b1e-bf63-09ac8bfef33f/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c6a5f8f8ee581fa037d9f506b337c10:13b80661265aa7fd415e8a2bfb5a5362
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KNMOP_IVP_LAND_432x243_799AF_20241119_83929.jpg" group-title="AOTG-KIDS", Wallace & Gromit: The Curse of the Were-Rabbit
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/abbbe944-ec81-5ab5-9e16-4e5def33afdf/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13fcd1ffc293d6cf47b73d97388f5a10:41f21bad546bc67f6380eb4554b9c4c5
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_IYDVK_IVP_LAND_432x243_7E669_20241023_113855.jpg" group-title="AOTG-KIDS", Wheely
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/cmaf-dash-wv/vode/ef8797a1-b03b-5e91-b313-2d33d1f0fdc1/default_primary.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aa39247787071f01a6b1fc83c46d710:42dc4969225e8d610752ca9f9329d586
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JVVJK_IVP_LAND_672x378_5A4ED_2024313_161352.jpg" group-title="AOTG-KIDS", You Don't Mess with Little Bugs
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/b9c2514a-e0c8-5c08-9391-559a9e37dbd8/default_primary.mpd
 
 
 
