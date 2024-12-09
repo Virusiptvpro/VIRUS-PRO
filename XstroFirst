@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+VIDEO LAMA
+#EXTINF:-1 tvg-id="tv1" tvg-name="VOD LAMA" group-title="VOD LAMA" group-logo="" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2017/04/film-my-father-is-a-hero-1995.jpg.webp", My Father is a Hero (Gei ba ba de xin) (1995) 
+https://stream.hownetwork.xyz/xxx/father-hero-1995-bluray/4/480.m3u8
 #================first=============================
 
 #EXTINF:-1 tvg-id="tv1" tvg-name="First" group-title="▶ First" group-logo="" tvg-logo="https://perfecttv.net/first/sting2024.jpg", 966-Sting 2024
