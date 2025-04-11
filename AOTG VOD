@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 type="movie 2022" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgywDJQfPSDHeh52p5CMVgLwavjdjZKywIwV7DZEA30w&s" group-title="THE CLOSET", The closet 
+https://cloud.hownetwork.xyz/xxx/779f96b86f2ad2aa085aa508d926ff8d/3/480.m3u8
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f668fbdc6c72d3c4f24a23ae28fc0510:5f33b1c1b1b9dcacc2360803be4ba6e7
 #EXTINF:-1 type="movie" tvg-logo="000 BC" group-title="Movies - AOTg", 10
