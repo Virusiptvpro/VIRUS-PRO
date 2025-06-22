@@ -1,2 +1,1 @@
-<script>
-    const npointUrl = "https://api.npoint.io/bac9b067177c3c5de4c6";
+const npointUrl = "https://api.npoint.io/bac9b067177c3c5de4c6";
